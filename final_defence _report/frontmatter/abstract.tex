@@ -1,0 +1,15 @@
+\clearpage
+\thispagestyle{plain}
+
+\addcontentsline{toc}{chapter}{ABSTRACT}
+
+\begin{center}
+    \textbf{\Large ABSTRACT}
+\end{center}
+
+\vspace{0.5cm}
+
+Rescue robots are usually teleoperated over links that fail, on hardware too costly to lose. This paper presents and evaluates a teleoperated rescue robot built from commodity single-board hardware, with two jobs: to remove motor drive within a bounded time whenever the operator link or the robot's own software fails, and to let the operator see and talk to a trapped person. An Arduino UNO runs the motor firmware, a Raspberry Pi 4 runs three isolated processes (control, media and a watchdog), and all services run on a local Wi-Fi network with no Internet uplink. A firmware dead-man timer enforces the stop independently of the Pi, a two-way WebRTC audio and video path reaches the victim, and the watchdog restarts a failed process. On the assembled robot, the firmware removed drive within 2042 ms of the last command in 30 of 30 logged trials (mean 2022.5 ms), below an analytical bound of about 2060 ms; the watchdog restored service with a new process identifier in 30 of 30 SIGKILL trials, a Wilson lower bound of 88.6\%; and one operator media session cost about 63\% of one core on the media process while the control process stayed near 4\%. The bill of materials, from receipts, is about USD 310. The stop figure is the time at which drive is removed, not a wheel-stop time or stopping distance; control latency over Wi-Fi, media delay and quality, an end-to-end field trial and an operator usability study were not measured and are pending.
+
+\vspace{0.5cm}
+\noindent\textbf{Keywords:} search and rescue robotics, teleoperation, fail-safe control, dead-man timer, fault tolerance, WebRTC, edge computing, Raspberry Pi

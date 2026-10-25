@@ -1,0 +1,4209 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.24)  26 OCT 2026 05:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./final_defence_report.tex
+(final_defence_report.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count284
+\float@exts=\toks20
+\float@box=\box53
+\@float@everytoks=\toks21
+\@floatcapt=\box54
+) (C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+For additional information on amsmath, use the `?' option.
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen151
+))
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count285
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count286
+\leftroot@=\count287
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count288
+\DOTSCASE@=\count289
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count290
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count291
+\dotsspace@=\muskip17
+\c@parentequation=\count292
+\dspbrk@lvl=\count293
+\tag@help=\toks23
+\row@=\count294
+\column@=\count295
+\maxfields@=\count296
+\andhelp@=\toks24
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks25
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count297
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count298
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen160
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count301
+ (C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count302
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen161
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count303
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count304
+\c@Item=\count305
+\c@Hfootnote=\count306
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count307
+\c@bookmark@seq@number=\count308
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip54
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count309
+\Gm@cntv=\count310
+\c@Gm@tempcnt=\count311
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks27
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2026-09-12 v3.0c parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 64.
+\cftparskip=\skip55
+\cftbeforetoctitleskip=\skip56
+\cftaftertoctitleskip=\skip57
+\cftbeforepartskip=\skip58
+\cftpartnumwidth=\skip59
+\cftpartindent=\skip60
+\cftbeforechapskip=\skip61
+\cftchapindent=\skip62
+\cftchapnumwidth=\skip63
+\cftbeforesecskip=\skip64
+\cftsecindent=\skip65
+\cftsecnumwidth=\skip66
+\cftbeforesubsecskip=\skip67
+\cftsubsecindent=\skip68
+\cftsubsecnumwidth=\skip69
+\cftbeforesubsubsecskip=\skip70
+\cftsubsubsecindent=\skip71
+\cftsubsubsecnumwidth=\skip72
+\cftbeforeparaskip=\skip73
+\cftparaindent=\skip74
+\cftparanumwidth=\skip75
+\cftbeforesubparaskip=\skip76
+\cftsubparaindent=\skip77
+\cftsubparanumwidth=\skip78
+\cftbeforeloftitleskip=\skip79
+\cftafterloftitleskip=\skip80
+\cftbeforefigskip=\skip81
+\cftfigindent=\skip82
+\cftfignumwidth=\skip83
+\c@lofdepth=\count312
+\c@lotdepth=\count313
+\cftbeforelottitleskip=\skip84
+\cftafterlottitleskip=\skip85
+\cftbeforetabskip=\skip86
+\cfttabindent=\skip87
+\cfttabnumwidth=\skip88
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box57
+\beforetitleunit=\skip89
+\aftertitleunit=\skip90
+\ttl@plus=\dimen172
+\ttl@minus=\dimen173
+\ttl@toksa=\toks28
+\titlewidth=\dimen174
+\titlewidthlast=\dimen175
+\titlewidthfirst=\dimen176
+) (C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip91
+\LTright=\skip92
+\LTpre=\skip93
+\LTpost=\skip94
+\LTchunksize=\count314
+\LTcapwidth=\dimen177
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count315
+\LT@rows=\count316
+\c@LT@tables=\count317
+\c@LT@chunks=\count318
+\LT@p@ftn=\toks29
+) (C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box63
+\extrarowheight=\dimen179
+\NC@list=\toks30
+\extratabsurround=\skip95
+\backup@length=\skip96
+\ar@cellbox=\box64
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.s
+ty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+\MT@toks=\toks31
+\MT@tempbox=\box65
+\MT@count=\count319
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks32
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen180
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count320
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-p
+dftex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip97
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.c
+fg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/seqsplit\seqsplit.sty
+Package: seqsplit 2006/08/07 v0.1 Splitting long sequences (DNA, RNA, proteins,
+ etc.) 
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+2.
+ (C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count321
+)
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.aux)
+\openout1 = `final_defence_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count322
+\scratchdimen=\dimen181
+\scratchbox=\box66
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen182
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks34
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 92.
+
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.out)
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.out)
+\@outlinefile=\write3
+\openout3 = `final_defence_report.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(86.72377pt, 452.9679pt, 57.81621pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=14.45378pt
+* \evensidemargin=14.45378pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 92.
+Package microtype Info: Applying patch `item' on input line 92.
+Package microtype Info: Applying patch `toc' on input line 92.
+Package microtype Info: Applying patch `eqnum' on input line 92.
+Package microtype Info: Applying patch `footnote' on input line 92.
+Package microtype Info: Applying patch `verbatim' on input line 92.
+LaTeX Info: Redefining \microtypesetup on input line 92.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+<figures/baiust-logo.png, id=400, 250.9375pt x 250.9375pt>
+File: figures/baiust-logo.png Graphic file (type png)
+<use figures/baiust-logo.png>
+Package pdftex.def Info: figures/baiust-logo.png  used on input line 108.
+(pdftex.def)             Requested size: 135.89174pt x 135.8986pt.
+[1
+
+{C:/Users/chinmoy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ch
+inmoy/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./figures/bai
+ust-logo.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.197 \clearpage
+                 [1
+
+
+] [2
+
+
+] [3] [4
+
+
+]
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.toc
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [5
+
+] [6])
+\tf@toc=\write4
+\openout4 = `final_defence_report.toc'.
+
+ [7]
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.lot
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2
+7.
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+[8
+
+]
+Overfull \hbox (9.051pt too wide) in paragraph at lines 31--31
+ [][] [][]\OT1/ptm/m/n/12 (-20) True con-trol la-tency (E2), \OT1/pcr/m/n/12 la
+tency[]-video.csv\OT1/ptm/m/n/12 (-20) . [PEND-ING MEA-SURE-MENT][] []  
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 38--38
+ [][] [][]\OT1/ptm/m/n/12 (+20) Glass-to-glass video de-lay (E5), \OT1/pcr/m/n/
+12 glass2glass.csv\OT1/ptm/m/n/12 (+20) . [PEND-ING 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+ [][] [][]\OT1/ptm/m/n/12 (+20) Communication range and link degra-da-tion (E6)
+, \OT1/pcr/m/n/12 network.csv\OT1/ptm/m/n/12 (+20) . 
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 44--44
+ [][] [][]\OT1/ptm/m/n/12 (+20) Manually in-jected fault tran-si-tions (E7 man-
+ual), \OT1/pcr/m/n/12 fault[]-watch.csv\OT1/ptm/m/n/12 (+20) , 
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+ [][] [][]\OT1/ptm/m/n/12 (+20) Resource util-i-sa-tion, \OT1/pcr/m/n/12 tools/
+eval/results/resources.csv\OT1/ptm/m/n/12 (+20) . 
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 50--50
+ \OT1/ptm/m/n/12 (+20) MEA-SURED. To-tal CPU is % of the four-core pro-ces-sor;
+ P1 to P3 
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 53--53
+ [][] [][]\OT1/ptm/m/n/12 (+20) Resource util-i-sa-tion, 16 kbit/s Opus ab-la-t
+ion (E8), \OT1/pcr/m/n/12 resources.csv\OT1/ptm/m/n/12 (+20) . 
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 59--59
+ [][] [][]\OT1/ptm/m/n/12 (+20) Gas sen-sor re-sponse (E12), \OT1/pcr/m/n/12 t 
+o o l s / e v a l / r e s u l t s / g a s . c s v\OT1/ptm/m/n/12 (+20) . 
+ []
+
+[10]
+Underfull \hbox (badness 3108) in paragraph at lines 65--65
+ [][] [][]\OT1/ptm/m/n/12 (+20) Build cost com-par-i-son with lit-er-a-ture pla
+t-forms (E15). This work: 
+ []
+
+)
+\tf@lot=\write5
+\openout5 = `final_defence_report.lot'.
+
+ [11]
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.lof)
+\tf@lof=\write6
+\openout6 = `final_defence_report.lof'.
+
+ [12
+
+] [13]
+Chapter 1.
+(chapter/1_introduction/chapter1_introduction.tex [1
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+8.
+
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[2]) [3] [4]
+Chapter 2.
+(chapter/2_related_work/chapter2_related_work.tex
+Underfull \hbox (badness 1394) in paragraph at lines 7--8
+\OT1/ptm/m/n/12 (+20) Reviews of SAR robotics or-gan-ise the field along dif-fe
+r-ent axes: a do-main the-ory
+ []
+
+[5
+
+] [6] [7] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/ptm/m/n/8 (+20) Survivor Buddy
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 54--54
+[]|\OT1/ptm/m/n/8 (+20) 4-DoF robot head with a
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 54--54
+[]|\OT1/ptm/m/n/8 (+20) Joints con-trol-lable over a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/ptm/m/n/8 (+20) be-ing ac-cept-able (de-sign
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/8 (+20) Paripreksya
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/8 (+20) Tracked UGV, 4 flip-pers,
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 56--56
+\OT1/ptm/m/n/8 (+20) 4-DoF ma-nip-u-la-tor, ROS;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/8 (+20) Tracked UGV, cam-era,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/ptm/m/n/8 (+20) mi-cro-phone, gas sen-sors;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/8 (+20) IoT dis-as-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/ptm/m/n/8 (+20) re-sponse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/8 (+20) 3D-printed UGV, ESP32
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/ptm/m/n/8 (+20) and ESP32-CAM, video,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/ptm/m/n/8 (+20) GPS, re-mote light-ing;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\OT1/ptm/m/n/8 (+20) Mobile robot, Ar-duino,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/ptm/m/n/8 (+20) ther-mal and ul-tra-sonic
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 64--64
+[]|\OT1/ptm/m/n/8 (+20) Pioneer-P3DX with Kinect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/ptm/m/n/8 (+20) cam-era; mon-i-tored and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|\OT1/ptm/m/n/8 (+20) LoRa LP-WAN, no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/ptm/m/n/8 (+20) in-fras-truc-ture; 1.6 miles
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 64--64
+\OT1/ptm/m/n/8 (+20) re-ported; In-tel NUC and
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 64--64
+\OT1/ptm/m/n/8 (+20) Robo-MaC de-vices on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|\OT1/ptm/m/n/8 (+20) Operator-commanded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/ptm/m/n/8 (+20) E-Stop bit only;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\OT1/ptm/m/n/8 (+20) Universal
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 66--66
+\OT1/ptm/m/n/8 (+20) op-er-a-tor voice com-mands,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/ptm/m/n/8 (+20) au-tonomous nav-i-ga-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\OT1/ptm/m/n/8 (+20) Wi-Fi, ca-ble or cel-lu-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/ptm/m/n/8 (+20) (GSM); Rasp-berry Pi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/ptm/m/n/8 (+20) used for voice-command
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/ptm/m/n/8 (+20) Active scope
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 68--68
+[]|\OT1/ptm/m/n/8 (+20) Tethered con-tin-uum robot,
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 68--68
+\OT1/ptm/m/n/8 (+20) 80 dis-tributed sen-sors incl.
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 68--68
+\OT1/ptm/m/n/8 (+20) mi-cro-phones and speak-ers;
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 68--68
+[]|\OT1/ptm/m/n/8 (+20) Multiple PCs on a ROS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\OT1/ptm/m/n/8 (+20) SAR as-sis-tant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\OT1/ptm/m/n/8 (+20) Arduino Mega, ther-mal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\OT1/ptm/m/n/8 (+20) IR ar-ray, ul-tra-sonic,
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 70--70
+\OT1/ptm/m/n/8 (+20) ac-celerom-e-ter; au-tonomous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\OT1/ptm/m/n/8 (+20) Amphibious
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 74--74
+[]|\OT1/ptm/m/n/8 (+20) Onboard Jet-son Nano and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\OT1/ptm/m/n/8 (+20) USB cam-era; de-tec-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\OT1/ptm/m/n/8 (+20) up-loaded to a Fire-base
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 74--74
+\OT1/ptm/m/n/8 (+20) database and shown in a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\OT1/ptm/m/n/8 (+20) QUADRESCUE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/ptm/m/n/8 (+20) operator-assisted, joy-stick
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 76--76
+[]|\OT1/ptm/m/n/8 (+20) Raspberry Pi 4B with a
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 76--76
+\OT1/ptm/m/n/8 (+20) Rasp-berry Pi Pico; Wi-Fi
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 78--78
+[]|\OT1/ptm/m/n/8 (+20) Two-motor ground ve-hi-cle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/8 (+20) with Ar-duino Uno and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/8 (+20) ESP32-CAM; op-er-a-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\OT1/ptm/m/n/8 (+20) LoRa com-mand link;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/8 (+20) ESP32-CAM video over
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/8 (+20) Wi-Fi; Blynk cloud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/8 (+20) dash-board. Re-ported
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 78--78
+[]|\OT1/ptm/m/n/8 (+20) Stop is an op-er-a-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/8 (+20) com-mand; link-loss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\OT1/ptm/m/n/8 (+20) 4WD UGV, Ar-duino
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 80--80
+\OT1/ptm/m/n/8 (+20) UNO and Rasp-berry Pi 4;
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 80--80
+[]|\OT1/ptm/m/n/8 (+20) Local Wi-Fi, all ser-vices
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 80--80
+\OT1/ptm/m/n/8 (+20) on the robot, no In-ter-net
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\OT1/ptm/m/n/8 (+20) Firmware dead-man;
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 80--80
+\OT1/ptm/m/n/8 (+20) 2042 ms of the last
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\OT1/ptm/m/n/8 (+20) re-stored in 30 of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\OT1/ptm/m/n/8 (+20) 30 SIGKILL tri-als
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [10]
+Underfull \hbox (badness 3417) in paragraph at lines 94--94
+[]|\OT1/ptm/m/n/8 (+20) Design goal: the screen lets
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\OT1/ptm/m/n/8 (+20) and USD 1,800
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 94--94
+\OT1/ptm/m/n/8 (+20) (v2.0), head only,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\OT1/ptm/m/n/8 (+20) Design-process case
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\OT1/ptm/m/n/8 (+20) study with a v1.0/v2.0
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\OT1/ptm/m/n/8 (+20) com-par-i-son ta-ble [[]43[]];
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\OT1/ptm/m/n/8 (+20) quasi-experimental study
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\OT1/ptm/m/n/8 (+20) with four middle-school
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+\OT1/ptm/m/n/8 (+20) two sim-u-lated US&R
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 94--95
+[]|\OT1/ptm/m/n/8 (+20) Full text of
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 94--95
+\OT1/ptm/m/n/8 (+20) both Mur-phy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\OT1/ptm/m/n/8 (+20) pa-pers;
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 96--96
+[]|\OT1/ptm/m/n/8 (+20) Competition: WRS 2020
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 96--96
+\OT1/ptm/m/n/8 (+20) with video of each task
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\OT1/ptm/m/n/8 (+20) ``Low-cost'', no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/8 (+20) sur-faces in a sim-u-lated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]|\OT1/ptm/m/n/8 (+20) IoT dis-as-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/8 (+20) re-sponse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]|\OT1/ptm/m/n/8 (+20) ``Affordable'', no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\OT1/ptm/m/n/8 (+20) Speaker and mi-cro-phone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\OT1/ptm/m/n/8 (+20) NR (data on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\OT1/ptm/m/n/8 (+20) Simulation: de-tec-tor
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 104--104
+\OT1/ptm/m/n/8 (+20) mounted on the robot as a
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 104--104
+\OT1/ptm/m/n/8 (+20) the vic-tim could com-mu-ni-cate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\OT1/ptm/m/n/8 (+20) ``Low-cost''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\OT1/ptm/m/n/8 (+20) walkie-talkie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\OT1/ptm/m/n/8 (+20) Simulation (Gazebo with
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 104--104
+\OT1/ptm/m/n/8 (+20) ESP32 mod-ules) and an
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 104--104
+\OT1/ptm/m/n/8 (+20) robot; the 1.6-mile LoRa
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 104--104
+\OT1/ptm/m/n/8 (+20) dis-tance is stated for the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]|\OT1/ptm/m/n/8 (+20) Universal
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 106--106
+[]|\OT1/ptm/m/n/8 (+20) Speech syn-the-sis de-scribed as
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 106--106
+\OT1/ptm/m/n/8 (+20) as a com-mu-ni-ca-tion medium;
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 106--106
+\OT1/ptm/m/n/8 (+20) not among the re-ported tests;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]|\OT1/ptm/m/n/8 (+20) NR (data on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/ptm/m/n/8 (+20) robots: drone in-doors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/ptm/m/n/8 (+20) and out-doors (wind 23
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/ptm/m/n/8 (+20) km/h, mi-cro-phone noise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/ptm/m/n/8 (+20) 3D-reconstruction re-sults
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|\OT1/ptm/m/n/8 (+20) Active scope
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 108--108
+\OT1/ptm/m/n/8 (+20) talk to sur-vivors, and also for
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 108--108
+\OT1/ptm/m/n/8 (+20) the re-ported search ex-per-i-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|\OT1/ptm/m/n/8 (+20) Physical pro-to-type;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\OT1/ptm/m/n/8 (+20) sim-u-lated rub-ble at the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\OT1/ptm/m/n/8 (+20) Fukushima Robot Test
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 108--108
+\OT1/ptm/m/n/8 (+20) Field with a man-nequin;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\OT1/ptm/m/n/8 (+20) SAR as-sis-tant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\OT1/ptm/m/n/8 (+20) ``Inexpensive,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/ptm/m/n/8 (+20) com-monly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\OT1/ptm/m/n/8 (+20) Physical pro-to-type;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/ptm/m/n/8 (+20) ex-per-i-ments on sloped
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]|\OT1/ptm/m/n/8 (+20) Amphibious
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\OT1/ptm/m/n/8 (+20) ``Low-cost''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/ptm/m/n/8 (+20) pro-ces-sor, no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/ptm/m/n/8 (+20) and eval-u-ated on 6,837
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/ptm/m/n/8 (+20) im-ages (many syn-thetic
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 114--114
+\OT1/ptm/m/n/8 (+20) or aug-mented); on-device
+ []
+
+
+Overfull \hbox (1.08514pt too wide) in paragraph at lines 116--116
+[]|\OT1/ptm/m/n/8 (-20) QUADRESCUE
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 116--116
+[]|\OT1/ptm/m/n/8 (+20) NR (code on
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 116--116
+[]|\OT1/ptm/m/n/8 (+20) Physical pro-to-type; field
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/ptm/m/n/8 (+20) eval-u-a-tion on dif-fi-cult
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/ptm/m/n/8 (+20) sur-faces against wheeled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\OT1/ptm/m/n/8 (+20) LoRa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+\OT1/ptm/m/n/8 (+20) surveil-lance
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 120--120
+[]|\OT1/ptm/m/n/8 (+20) Two-way We-bRTC video and
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 120--120
+\OT1/ptm/m/n/8 (+20) au-dio, plus text and im-ages
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 120--120
+\OT1/ptm/m/n/8 (+20) (Sec-tion 3.9); re-source cost in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+\OT1/ptm/m/n/8 (+20) receipt-backed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+\OT1/ptm/m/n/8 (+20) (37,158 BDT;
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 120--120
+[]|\OT1/ptm/m/n/8 (+20) Public GitHub
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 120--120
+\OT1/ptm/m/n/8 (+20) repos-i-tory; no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\OT1/ptm/m/n/8 (+20) Indoor lab-o-ra-tory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+\OT1/ptm/m/n/8 (+20) mea-sure-ments on the
+ []
+
+[11]
+ignored error: Infinite glue shrinkage found in box being split [12]) [13]
+Chapter 3.
+(chapter/3_methodology/chapter3_methodology.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 4.
+
+[14
+
+]
+<figures/fig01.png, id=1103, 764.6166pt x 226.2051pt>
+File: figures/fig01.png Graphic file (type png)
+<use figures/fig01.png>
+Package pdftex.def Info: figures/fig01.png  used on input line 21.
+(pdftex.def)             Requested size: 520.91031pt x 154.11426pt.
+ [15 <./figures/fig01.png>]
+<figures/fig02.png, id=1110, 628.0263pt x 484.9317pt>
+File: figures/fig02.png Graphic file (type png)
+<use figures/fig02.png>
+Package pdftex.def Info: figures/fig02.png  used on input line 30.
+(pdftex.def)             Requested size: 452.9679pt x 349.77211pt.
+ [16
+
+ <./figures/fig02.png>]
+Overfull \hbox (29.5628pt too wide) in alignment at lines 41--47
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (29.5628pt too wide) in alignment at lines 47--51
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]|\OT1/ptm/m/n/12 (+20) Dashboard files, con-trol and
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 52--53
+\OT1/ptm/m/n/12 (+20) teleme-try, ses-sion set-tings, GPS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+\OT1/ptm/m/n/12 (+20) track, of-fline map tiles, ICE
+ []
+
+
+Overfull \hbox (29.5628pt too wide) in alignment at lines 51--60
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+[]|\OT1/ptm/m/n/12 (+20) Section 3.9.1,
+ []
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 (+20) the firmware frames
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 (+20) be-hind them ar-rive
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 83--83
+[]|\OT1/ptm/m/n/12 (+20) Heartbeat ev-ery 500
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]|\OT1/ptm/m/n/12 (+20) Dead-man, Sec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\OT1/ptm/m/n/12 (+20) 3000 ms with-out
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\OT1/ptm/m/n/12 (+20) Arduino UNO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]|\OT1/ptm/m/n/12 (+20) Temperature and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+[]|\OT1/ptm/m/n/12 (+20) Raw 10-bit value 0-1023,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\OT1/ptm/m/n/12 (+20) Camera and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]|\OT1/ptm/m/n/12 (+20) 7-inch HDMI dis-play,
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 142--142
+\OT1/ptm/m/n/12 (+20) 18650 cells, 1500 mAh
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 142--142
+\OT1/ptm/m/n/12 (+20) each), 14.8 V nom-i-nal,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+\OT1/ptm/m/n/12 (+20) 16.8 V full, 4.5 Ah
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+\OT1/ptm/m/n/12 (+20) nom-i-nal, con-tin-u-ous
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [19] [20]
+<figures/fig03.png, id=1142, 350.0277pt x 113.223pt>
+File: figures/fig03.png Graphic file (type png)
+<use figures/fig03.png>
+Package pdftex.def Info: figures/fig03.png  used on input line 156.
+(pdftex.def)             Requested size: 552.62138pt x 178.7677pt.
+<figures/fig04.png, id=1144, 513.117pt x 542.7477pt>
+File: figures/fig04.png Graphic file (type png)
+<use figures/fig04.png>
+Package pdftex.def Info: figures/fig04.png  used on input line 164.
+(pdftex.def)             Requested size: 317.42459pt x 335.7426pt.
+
+[21
+
+ <./figures/fig03.png> <./figures/fig04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+[]|\OT1/ptm/m/n/12 (+20) 115200 baud,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\OT1/ptm/m/n/12 (+20) newline-terminated
+ []
+
+
+Underfull \hbox (badness 8151) in paragraph at lines 187--188
+[]|\OT1/ptm/m/n/12 (+20) ServoTimer2Plus li-brary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]|\OT1/ptm/m/n/12 (+20) Enable for both
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[]|\OT1/ptm/m/n/12 (+20) Low at boot and on
+ []
+
+
+Underfull \hbox (badness 8151) in paragraph at lines 203--204
+[]|\OT1/ptm/m/n/12 (+20) ServoTimer2Plus li-brary
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 207--207
+[]|\OT1/ptm/m/n/12 (+20) DHT11 single-wire
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+[]|\OT1/ptm/m/n/12 (+20) Read ev-ery 2000 ms,
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 209--210
+[]|\OT1/ptm/m/n/12 (+20) 10-bit ADC; raw value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+[]|\OT1/ptm/m/n/12 (+20) 8 V from buck
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]|\OT1/ptm/m/n/12 (+20) USB we-b-cam with
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 232--233
+[]|\OT1/ptm/m/n/12 (+20) Video cap-ture and au-dio
+ []
+
+[22
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig05.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig05.pdf, id=1158, 713.66624pt x 686.565pt>
+File: figures/fig05.pdf Graphic file (type pdf)
+<use figures/fig05.pdf>
+Package pdftex.def Info: figures/fig05.pdf  used on input line 257.
+(pdftex.def)             Requested size: 407.66833pt x 392.1842pt.
+[23]
+Underfull \hbox (badness 6658) in paragraph at lines 281--281
+[]|\OT1/ptm/m/n/12 (+20) Arduino core, no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+[]|\OT1/ptm/m/n/12 (+20) scheduler,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+\OT1/ptm/m/n/12 (+20) com-mand[]-parser,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+\OT1/ptm/m/n/12 (+20) mo-tors, ser-vos,
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 283--283
+[]|\OT1/ptm/m/n/12 (+20) Python 3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+\OT1/ptm/m/n/12 (+20) web-socket[]-hub,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+[]|\OT1/ptm/m/n/12 (+20) protocol,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+\OT1/ptm/m/n/12 (+20) con-fig, ac-cess,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+\OT1/ptm/m/n/12 (+20) log-ging[]-setup,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+[]|\OT1/ptm/m/n/12 (+20) Operator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+[]|\OT1/ptm/m/n/12 (+20) React 19, Vite,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+\OT1/ptm/m/n/12 (+20) Tail-wind CSS,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+[]|\OT1/ptm/m/n/12 (+20) useControlSocket,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\OT1/ptm/m/n/12 (+20) useWe-brtcVideo,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\OT1/ptm/m/n/12 (+20) useTalk-back,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\OT1/ptm/m/n/12 (+20) Drive-Con-trol,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\OT1/ptm/m/n/12 (+20) Emer-gen-cyStop,
+ []
+
+[24 <./figures/fig05.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig06.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig06.pdf, id=1174, 476.78125pt x 807.015pt>
+File: figures/fig06.pdf Graphic file (type pdf)
+<use figures/fig06.pdf>
+Package pdftex.def Info: figures/fig06.pdf  used on input line 295.
+(pdftex.def)             Requested size: 407.66833pt x 690.06657pt.
+
+LaTeX Warning: Float too large for page by 16.65761pt on input line 297.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig07.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig07.pdf, id=1175, 625.33624pt x 713.66624pt>
+File: figures/fig07.pdf Graphic file (type pdf)
+<use figures/fig07.pdf>
+Package pdftex.def Info: figures/fig07.pdf  used on input line 303.
+(pdftex.def)             Requested size: 249.13371pt x 284.31802pt.
+<figures/fig07b.png, id=1176, 1444.64719pt x 666.99188pt>
+File: figures/fig07b.png Graphic file (type png)
+<use figures/fig07b.png>
+Package pdftex.def Info: figures/fig07b.png  used on input line 306.
+(pdftex.def)             Requested size: 430.31812pt x 198.67426pt.
+[25] [26 <./figures/fig06.pdf>] [27 <./figures/fig07.pdf> <./figures/fig07b.png
+>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig08.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig08.pdf, id=1194, 454.69875pt x 583.17876pt>
+File: figures/fig08.pdf Graphic file (type pdf)
+<use figures/fig08.pdf>
+Package pdftex.def Info: figures/fig08.pdf  used on input line 318.
+(pdftex.def)             Requested size: 339.42744pt x 435.32724pt.
+[28 <./figures/fig08.pdf>]
+Underfull \hbox (badness 6893) in paragraph at lines 343--344
+[]|\OT1/ptm/m/n/12 (+20) HC-SR04 range (25 ms echo
+ []
+
+<figures/fig09.png, id=1205, 1019.007pt x 231.264pt>
+File: figures/fig09.png Graphic file (type png)
+<use figures/fig09.png>
+Package pdftex.def Info: figures/fig09.png  used on input line 358.
+(pdftex.def)             Requested size: 520.91031pt x 118.21832pt.
+[29
+
+ <./figures/fig09.png>] [30
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig10.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig10.pdf, id=1223, 746.79pt x 598.235pt>
+File: figures/fig10.pdf Graphic file (type pdf)
+<use figures/fig10.pdf>
+Package pdftex.def Info: figures/fig10.pdf  used on input line 390.
+(pdftex.def)             Requested size: 407.66833pt x 326.57474pt.
+[31 <./figures/fig10.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
+[]|\OT1/ptm/m/n/12 (+20) Emergency stop
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 412--412
+[]|\OT1/ptm/m/n/12 (+20) S, sent with-out
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
+\OT1/ptm/m/n/12 (+20) the se-quence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+[]|\OT1/ptm/m/n/12 (+20) Controller
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 416--416
+[]|\OT1/ptm/m/n/12 (+20) Another dash-board
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 418--418
+[]|\OT1/ptm/m/n/12 (+20) 3 x S, 200 ms
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 420--421
+[]|\OT1/ptm/m/n/12 (+20) Before the port
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig11.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig11.pdf, id=1234, 750.805pt x 662.475pt>
+File: figures/fig11.pdf Graphic file (type pdf)
+<use figures/fig11.pdf>
+Package pdftex.def Info: figures/fig11.pdf  used on input line 436.
+(pdftex.def)             Requested size: 407.66833pt x 359.71245pt.
+[32]
+<figures/fig12.png, id=1240, 815.2056pt x 226.2051pt>
+File: figures/fig12.png Graphic file (type png)
+<use figures/fig12.png>
+Package pdftex.def Info: figures/fig12.png  used on input line 445.
+(pdftex.def)             Requested size: 407.66833pt x 113.11952pt.
+ [33 <./figures/fig11.pdf> <./figures/fig12.png>]
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig13.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig13.pdf, id=1249, 444.66125pt x 98.3675pt>
+File: figures/fig13.pdf Graphic file (type pdf)
+<use figures/fig13.pdf>
+Package pdftex.def Info: figures/fig13.pdf  used on input line 495.
+(pdftex.def)             Requested size: 407.66833pt x 90.18396pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig14.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig14.pdf, id=1250, 464.73625pt x 376.40625pt>
+File: figures/fig14.pdf Graphic file (type pdf)
+<use figures/fig14.pdf>
+Package pdftex.def Info: figures/fig14.pdf  used on input line 504.
+(pdftex.def)             Requested size: 407.67854pt x 330.19319pt.
+[34] [35 <./figures/fig13.pdf> <./figures/fig14.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[]|\OT1/ptm/m/n/12 (+20) Dead-man;
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 532--532
+[]|\OT1/ptm/m/n/12 (+20) Robot stops; mis-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+[]|\OT1/ptm/m/n/12 (+20) Reconnect with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+\OT1/ptm/m/n/12 (+20) back-off, teleme-try
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]|\OT1/ptm/m/n/12 (+20) Respawn; buffered
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 536--536
+[]|\OT1/ptm/m/n/12 (+20) Video and talk lost;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+\OT1/ptm/m/n/12 (+20) con-trol un-af-fected;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+\OT1/ptm/m/n/12 (+20) mis-sion DRIV-ING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+[]|\OT1/ptm/m/n/12 (+20) Respawn; op-er-a-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\OT1/ptm/m/n/12 (+20) Serial flag false;
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 540--540
+[]|\OT1/ptm/m/n/12 (+20) Camera fails to
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 540--540
+[]|\OT1/ptm/m/n/12 (+20) Synthetic test pat-tern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
+[]|\OT1/ptm/m/n/12 (+20) Robot Screen
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [36]
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig15.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig15.pdf, id=1290, 627.34375pt x 662.475pt>
+File: figures/fig15.pdf Graphic file (type pdf)
+<use figures/fig15.pdf>
+Package pdftex.def Info: figures/fig15.pdf  used on input line 556.
+(pdftex.def)             Requested size: 407.66833pt x 430.51268pt.
+[37 <./figures/fig15.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 578--578
+[]|\OT1/ptm/m/n/12 (+20) DRIVING
+ []
+
+<figures/fig16.pdf, id=1299, 810.1467pt x 410.49359pt>
+File: figures/fig16.pdf Graphic file (type pdf)
+<use figures/fig16.pdf>
+Package pdftex.def Info: figures/fig16.pdf  used on input line 592.
+(pdftex.def)             Requested size: 407.66833pt x 206.56165pt.
+
+Underfull \hbox (badness 1661) in paragraph at lines 616--616
+[]|\OT1/ptm/m/n/12 (+20) No key con-fig-ured on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--617
+[]|\OT1/ptm/m/n/12 (+20) Observer for
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [38] [39]
+<figures/fig17.pdf, id=1311, 1031.29285pt x 109.8504pt>
+File: figures/fig17.pdf Graphic file (type pdf)
+<use figures/fig17.pdf>
+Package pdftex.def Info: figures/fig17.pdf  used on input line 645.
+(pdftex.def)             Requested size: 452.9679pt x 48.24883pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]|\OT1/ptm/m/n/12 (+20) Resolution and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 667--668
+[]|\OT1/ptm/m/n/12 (+20) Decoded by P2,
+ []
+
+[40 <./figures/fig16.pdf> <./figures/fig17.pdf>]
+<figures/fig18.pdf, id=1322, 527.57097pt x 469.755pt>
+File: figures/fig18.pdf Graphic file (type pdf)
+<use figures/fig18.pdf>
+Package pdftex.def Info: figures/fig18.pdf  used on input line 681.
+(pdftex.def)             Requested size: 452.9679pt x 403.32915pt.
+ [41] [42 <./figures/fig18.pdf>]
+Underfull \hbox (badness 1168) in paragraph at lines 707--708
+[]|\OT1/ptm/m/n/12 (+20) Operator is talk-ing or not;
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 711--712
+[]|\OT1/ptm/m/n/12 (+20) Remove the text from the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 715--716
+[]|\OT1/ptm/m/n/12 (+20) Switch the robot dis-play
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+[]|\OT1/ptm/m/n/12 (+20) Whether an op-er-a-tor is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--723
+[]|\OT1/ptm/m/n/12 (+20) floor[]-de-nied,
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 723--724
+[]|\OT1/ptm/m/n/12 (+20) Request re-fused: an-other
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [43]
+
+pdfTeX warning: pdflatex.exe (file ./figures/fig19.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<figures/fig19.pdf, id=1340, 435.6275pt x 262.9825pt>
+File: figures/fig19.pdf Graphic file (type pdf)
+<use figures/fig19.pdf>
+Package pdftex.def Info: figures/fig19.pdf  used on input line 739.
+(pdftex.def)             Requested size: 407.66833pt x 246.10406pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--765
+[]|\OT1/ptm/m/n/12 (+20) Capture pe-riod
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 767--768
+[]|\OT1/ptm/m/n/12 (+20) Inbound queue of 10
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 767--768
+\OT1/ptm/m/n/12 (+20) frames (about 200 ms);
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 769--770
+[]|\OT1/ptm/m/n/12 (+20) Clock re-set when more
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 769--770
+\OT1/ptm/m/n/12 (+20) than 100 ms late, no
+ []
+
+[44] [45 <./figures/fig19.pdf>]
+<figures/fig20.pdf, id=1355, 676.44719pt x 250.7769pt>
+File: figures/fig20.pdf Graphic file (type pdf)
+<use figures/fig20.pdf>
+Package pdftex.def Info: figures/fig20.pdf  used on input line 789.
+(pdftex.def)             Requested size: 407.66833pt x 151.1331pt.
+) [46 <./figures/fig20.pdf>]
+Chapter 4.
+(chapter/4_experimental_setup/chapter4_experimental_setup.tex
+Underfull \hbox (badness 4391) in paragraph at lines 12--13
+[]\OT1/ptm/m/n/12 (+20) Indoor lab-o-ra-tory (ap-prox-i-mately 6 x 8 m): contro
+l-latency, fault-injection,
+ []
+
+[47
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/ptm/m/n/8 (+20) Control-plane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/ptm/m/n/8 (+20) Indoor lab
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/ptm/m/n/8 (+20) (on the Pi,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/ptm/m/n/8 (+20) 30 per
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 40--40
+[]|\OT1/ptm/m/n/8 (+20) 2 jit-tered ses-sions x
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/ptm/m/n/8 (+20) Command send $\OMS/cmsy/m/n/8 !$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\OT1/ptm/m/n/8 (+20) True con-trol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/ptm/m/n/8 (+20) telemetry-confirmed
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 42--42
+\OT1/ptm/m/n/8 (+20) up-per bounds (Ta-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\OT1/ptm/m/n/8 (+20) record.py
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 42--42
+[]|\OT1/ptm/m/n/8 (+20) Key press $\OMS/cmsy/m/n/8 !$ \OT1/ptm/m/n/8 (+20) whee
+l
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/ptm/m/n/8 (+20) Emergency-stop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/ptm/m/n/8 (+20) 20 x 3
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 44--44
+[]|\OT1/ptm/m/n/8 (+20) 23 rows (7, 9, 7);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/8 (+20) [VER-I-FI-CA-TION
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/ptm/m/n/8 (+20) record.py
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/ptm/m/n/8 (+20) Stop com-mand $\OMS/cmsy/m/n/8 !$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/8 (+20) wheels sta-tion-ary:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\OT1/ptm/m/n/8 (+20) Dead-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\OT1/ptm/m/n/8 (+20) Last heart-beat $\OMS/cmsy/m/n/8 !$
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 46--46
+\OT1/ptm/m/n/8 (+20) wheels sta-tion-ary at
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 48--48
+[]|\OT1/ptm/m/n/8 (+20) Video and au-dio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/ptm/m/n/8 (+20) 20 per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/ptm/m/n/8 (+20) viewer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/ptm/m/n/8 (+20) record.py
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/ptm/m/n/8 (+20) Communication
+ []
+
+
+Overfull \hbox (4.96288pt too wide) in paragraph at lines 50--50
+[]|\OT1/ptm/m/n/8 (-20) Progressive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) dis-tances
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) to link
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) fail-ure,
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) with and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) with-out
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 50--50
+[]|\OT1/ptm/m/n/8 (+20) ICMP loss (%) and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) RTT (ms) to the
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) router, RSSI (dBm),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/8 (+20) tx bi-trate, chan-nel,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\OT1/ptm/m/n/8 (+20) 10
+ []
+
+
+Overfull \hbox (7.83566pt too wide) in paragraph at lines 52--52
+\OT1/ptm/m/n/8 (-20) (au-to-mated);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\OT1/ptm/m/n/8 (+20) man-ual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\OT1/ptm/m/n/8 (+20) faultinject.py
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 52--52
+[]|\OT1/ptm/m/n/8 (+20) Detection time (ms),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\OT1/ptm/m/n/8 (+20) re-cov-ery time (ms),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/ptm/m/n/8 (+20) Resource
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/ptm/m/n/8 (+20) 4
+ []
+
+
+Overfull \hbox (1.37071pt too wide) in paragraph at lines 54--54
+\OT1/ptm/m/n/8 (-20) con-di-tions
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 54--54
+[]|\OT1/ptm/m/n/8 (+20) 6 la-belled con-di-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/ptm/m/n/8 (+20) of about 3 to 30
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 54--54
+\OT1/ptm/m/n/8 (+20) min at 1 Hz (only
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/pcr/m/n/8 driving+media
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 54--54
+\OT1/ptm/m/n/8 (+20) mem-ory (MB), SoC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/ptm/m/n/8 (+20) tem-per-a-ture (C),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/8 (+20) Sensor ac-cu-racy:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/8 (+20) 30 min
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/8 (+20) 129.1 min archived
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 56--56
+\OT1/ptm/m/n/8 (+20) static win-dow (6888
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/8 (+20) Radial er-ror from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/ptm/m/n/8 (+20) cen-troid: mean,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/8 (+20) Sensor ac-cu-racy:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/8 (+20) 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/ptm/m/n/8 (+20) dis-tances
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/8 (+20) 50 rows;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/ptm/m/n/8 (+20) [VER-I-FI-CA-TION
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/8 (+20) record.py
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/8 (+20) Sensor ac-cu-racy:
+ []
+
+
+Overfull \hbox (7.9096pt too wide) in paragraph at lines 60--60
+\OT1/ptm/m/n/8 (-20) tem-per-a-ture/humidity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/8 (+20) 5
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 60--60
+\OT1/ptm/m/n/8 (+20) degC, 77% RH), 5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/ptm/m/n/8 (+20) [VER-I-FI-CA-TION
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/8 (+20) record.py
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/8 (+20) Reference - sen-sor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\OT1/ptm/m/n/8 (+20) Sensor ac-cu-racy:
+ []
+
+
+Overfull \hbox (3.22227pt too wide) in paragraph at lines 62--62
+[]|\OT1/ptm/m/n/8 (-20) Qualitative| 
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 64--64
+[]|\OT1/ptm/m/n/8 (+20) Time to vic-tim (s),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/ptm/m/n/8 (+20) col-li-sions, two-way
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\OT1/ptm/m/n/8 (+20) 8-12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/ptm/m/n/8 (+20) Authors' itemised
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/ptm/m/n/8 (+20) Appendix A
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 68--68
+[]|\OT1/ptm/m/n/8 (+20) Total cost (USD) vs
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [48] [49]
+[50] [51] [52] [53]) [54]
+Chapter 5.
+(chapter/5_results/chapter5_results.tex [55
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\OT1/ptm/m/n/10 (+20) Control-plane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]|\OT1/ptm/m/n/10 (+20) Probe con-nec-tions and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/ptm/m/n/10 (+20) True con-trol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+\OT1/ptm/m/n/10 (+20) la-tency (240
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/ptm/m/n/10 (+20) [PENDING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\OT1/ptm/m/n/10 (+20) MEASURED
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/ptm/m/n/10 (+20) (tran-scribed);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/ptm/m/n/10 (+20) [VER-I-FI-CA-TION
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\OT1/pcr/m/n/10 estop.csv\OT1/ptm/m/n/10 (+20) , 23
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 38--39
+[]|\OT1/ptm/m/n/10 (+20) PWM 120 and 180 drive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/ptm/m/n/10 (+20) com-mands present in \OT1/pcr/m/n/10 p 1
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 38--39
+[]\OT1/pcr/m/n/10 - e v e n t s . l o g\OT1/ptm/m/n/10 (+20) ; no PWM
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 38--39
+\OT1/ptm/m/n/10 (+20) 60 com-mand on the trial
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 38--39
+\OT1/ptm/m/n/10 (+20) date (2026-10-21; the only
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 38--39
+\OT1/ptm/m/n/10 (+20) later PWM 60 com-mands
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/ptm/m/n/10 (+20) be-long to the au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/ptm/m/n/10 (+20) 2026-10-22 ses-sions);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/ptm/m/n/10 (+20) Dead-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/ptm/m/n/10 (+20) [PENDING
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 40--41
+[]|\OT1/ptm/m/n/10 (+20) Firmware-side stop in-ter-val
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\OT1/ptm/m/n/10 (+20) [PENDING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/ptm/m/n/10 (+15) Communication
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) (16 sta-tions, 5 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) 250 m, line of
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) sight, no ob-sta-cle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) point reached, so
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) us-able range is
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) at least 250 m by
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) op-er-a-tor judge-ment
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) only and its up-per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) MEA-SURE-MENT];
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) ping loss of 0 to
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 44--44
+\OT1/ptm/m/n/10 (+20) 16% did not track
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 44--44
+[]|\OT1/pcr/m/n/10 network.csv\OT1/ptm/m/n/10 (+20) , 16
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[]|\OT1/ptm/m/n/10 (+20) Directly logged by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+\OT1/pcr/m/n/10 netsweep.py \OT1/ptm/m/n/10 (+20) (ping
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+\OT1/ptm/m/n/10 (+20) + lo-cal RSSI), not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+\OT1/ptm/m/n/10 (+20) hand-entered; dis-tances
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 46--46
+[]|\OT1/ptm/m/n/10 (+20) Fault in-jec-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\OT1/pcr/m/n/10 faults.csv\OT1/ptm/m/n/10 (+20) , 30
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 48--48
+[]|\OT1/ptm/m/n/10 (+20) Fault in-jec-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/ptm/m/n/10 (+20) MEASURED (F6,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/ptm/m/n/10 (+20) Resource
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/pcr/m/n/10 resources.csv\OT1/ptm/m/n/10 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\OT1/ptm/m/n/10 (+20) con-tains two over-lap-ping
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\OT1/ptm/m/n/10 (+20) GPS static
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\OT1/ptm/m/n/10 (+20) pre-ci-sion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\OT1/ptm/m/n/10 (+20) MEASURED,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/ptm/m/n/10 (+20) [VERIFICATION
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/pcr/m/n/10 ultrasonic.csv\OT1/ptm/m/n/10 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/10 (+20) Temperature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/ptm/m/n/10 (+20) and hu-mid-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/ptm/m/n/10 (+20) MEASURED
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/ptm/m/n/10 (+20) (tran-scribed) for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/ptm/m/n/10 (+20) sen-sor val-ues;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/ptm/m/n/10 (+20) [VER-I-FI-CA-TION
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/10 (+20) Gas sen-sor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/10 (+20) MEASURED
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/10 (+20) [PENDING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[]|\OT1/ptm/m/n/10 (+20) No per-run record ex-ists
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\OT1/ptm/m/n/10 (+20) Operator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\OT1/ptm/m/n/10 (+20) [PENDING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|\OT1/ptm/m/n/10 (+20) RECEIPT-BACKED
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/ptm/m/n/10 (+20) (BDT; USD at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]|\OT1/ptm/m/n/10 (+20) Authors' itemised re-ceipts,
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [56]
+ignored error: Infinite glue shrinkage found in box being split [57]
+Overfull \hbox (2.24855pt too wide) in paragraph at lines 82--82
+[]|\OT1/ptm/b/n/10 (-20) Median| 
+ []
+
+
+Overfull \hbox (2.24855pt too wide) in paragraph at lines 86--86
+[]|\OT1/ptm/b/n/10 (-20) Median| 
+ []
+
+
+Overfull \hbox (3.55586pt too wide) in paragraph at lines 93--93
+[]|\OT1/ptm/m/n/10 (-20) 136.1| 
+ []
+
+
+Overfull \hbox (2.76495pt too wide) in paragraph at lines 105--105
+[]|\OT1/ptm/m/n/10 (-20) 2409.1| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]|\OT1/ptm/m/n/10 (+20) 2366.2 to
+ []
+
+
+Overfull \hbox (3.55586pt too wide) in paragraph at lines 105--105
+[]|\OT1/ptm/m/n/10 (-20) 115.1| 
+ []
+
+
+Overfull \hbox (2.76495pt too wide) in paragraph at lines 105--105
+[]|\OT1/ptm/m/n/10 (-20) 2200.9| 
+ []
+
+
+Overfull \hbox (2.76495pt too wide) in paragraph at lines 105--105
+[]|\OT1/ptm/m/n/10 (-20) 2598.4| 
+ []
+
+
+Overfull \hbox (2.76495pt too wide) in paragraph at lines 105--106
+[]|\OT1/ptm/m/n/10 (-20) 2584.1| 
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [58]
+Underfull \hbox (badness 2600) in paragraph at lines 115--115
+[]\OT1/ptm/m/n/10 (+20) Table 5.2. Phase-locked sender (la-bel \OT1/pcr/m/n/10 
+on-pi-phaselocked\OT1/ptm/m/n/10 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]|\OT1/ptm/b/n/10 (+20) 95% CI of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\OT1/ptm/b/n/10 (+20) 95% CI of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+[]|\OT1/ptm/m/n/8 (+20) telemetry
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\OT1/ptm/m/n/8 (+20) P1 event-log
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 174--174
+[]|\OT1/ptm/m/n/10 (+20) P1 re-ceives ACK of that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+\OT1/ptm/m/n/10 (+20) com-mand $\OMS/cmsy/m/n/10 !$ \OT1/ptm/m/n/10 (+20) P1 re
+-ceives
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\OT1/ptm/m/n/10 (+20) Probe \OT1/pcr/m/n/10 deadman[]-panic
+ []
+
+[59] [60]
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]\OT1/ptm/m/n/12 (+20) Table 5.3. True con-trol la-tency (E2),
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
+[]|\OT1/ptm/b/n/10 (+20) Speed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+[]|\OT1/ptm/b/n/10 (+20) 95% CI of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+[]|\OT1/ptm/b/n/10 (+20) Speed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+[]|\OT1/ptm/b/n/10 (+20) 95% CI of
+ []
+
+[62] [63]
+Underfull \hbox (badness 2165) in paragraph at lines 246--247
+[]\OT1/ptm/m/n/12 (+20) [PENDING MEA-SURE-MENT: E4 dead-man phys-i-cal stop tim
+e.] Pro-to-col: with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\OT1/pcr/m/n/12 tools/eval/record.py deadman[]-physical\OT1/ptm/m/n/12 (+20) , 
+cut the com-mand stream and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[]\OT1/ptm/m/n/12 (+20) Table 5.5. Dead-man wheel-stop time (E4),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+\OT1/pcr/m/n/12 deadman[]-physical.csv\OT1/ptm/m/n/12 (+20) . [PEND-ING
+ []
+
+[64]
+Underfull \hbox (badness 3039) in paragraph at lines 296--296
+[]|\OT1/ptm/m/n/12 (+20) 116 passed,
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 296--297
+[]|\OT1/ptm/m/n/12 (+20) 2026-10-08 (\OT1/pcr/m/n/12 d o c
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 296--297
+\OT1/pcr/m/n/12 . m d\OT1/ptm/m/n/12 (+20) , quoted, not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+[]|\OT1/ptm/m/n/12 (+20) Fresh re-run,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+[]|\OT1/pcr/m/n/12 pi/tests/\OT1/ptm/m/n/12 (+20) , full
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 298--298
+\OT1/pcr/m/n/12 c e []- c o n f i g . p y \OT1/ptm/m/n/12 (+20) tests
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 298--298
+[]|\OT1/ptm/m/n/12 (+20) 121 passed,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+[]|\OT1/pcr/m/n/12 r e s e a r c h - a n a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\OT1/pcr/m/n/12 l y s i s / t e s t s /\OT1/ptm/m/n/12 (+20) :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\OT1/ptm/m/n/12 (+20) dead-man bound-ary,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\OT1/ptm/m/n/12 (+20) command-validator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\OT1/ptm/m/n/12 (+20) bound-ary,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\OT1/ptm/m/n/12 (+20) command-framing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\OT1/ptm/m/n/12 (+20) bound-ary (17), and
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 300--300
+\OT1/ptm/m/n/12 (+20) the cor-rected mock in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+[]|\OT1/ptm/m/n/12 (+20) 2026-10-23 (the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+\OT1/ptm/m/n/12 (+20) 17-test group
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+\OT1/ptm/m/n/12 (+20) first passed on
+ []
+
+[65]
+Underfull \hbox (badness 1609) in paragraph at lines 305--306
+[]\OT1/ptm/m/n/12 (+20) These re-sults es-tab-lish that, for the P1-side \OT1/p
+cr/m/n/12 MockArduino \OT1/ptm/m/n/12 (+20) model as cor-rected on
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 305--306
+\OT1/ptm/m/n/12 (+20) 2026-10-22 (ad-den-dum be-low), the dead-man alive/trippe
+d bound-ary (trip at elapsed
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 305--306
+\OT1/ptm/m/n/12 (+20) doc-u-mented in \OT1/pcr/m/n/12 pi/common/mock[]-hardware
+.py\OT1/ptm/m/n/12 (+20) , \OT1/pcr/m/n/12 pi/p1[]-control/safety.py
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 307--308
+\OT1/ptm/m/n/12 (+20) above ex-er-cise \OT1/pcr/m/n/12 MockArduino\OT1/ptm/m/n/
+12 (+20) , a from-scratch Python re-implementation; they say
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 307--308
+\OT1/ptm/m/n/12 (+20) gap with-out hard-ware, this re-vi-sion com-piles the rea
+l, un-mod-i-fied firmware sources
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 307--308
+\OT1/ptm/m/n/12 (+20) (\OT1/pcr/m/n/12 protocol.cpp\OT1/ptm/m/n/12 (+20) , \OT1
+/pcr/m/n/12 utils.cpp\OT1/ptm/m/n/12 (+20) , \OT1/pcr/m/n/12 robot[]-state.cpp\
+OT1/ptm/m/n/12 (+20) , \OT1/pcr/m/n/12 motors.cpp\OT1/ptm/m/n/12 (+20) , \OT1/p
+cr/m/n/12 servos.cpp\OT1/ptm/m/n/12 (+20) ,
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 307--308
+\OT1/pcr/m/n/12 telemetry.cpp\OT1/ptm/m/n/12 (+20) , \OT1/pcr/m/n/12 command[]-
+parser.cpp\OT1/ptm/m/n/12 (+20) , all un-der \OT1/pcr/m/n/12 arduino/\OT1/ptm/m
+/n/12 (+20) , byte-identical to
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 307--308
+\OT1/ptm/m/n/12 (+20) Ar-duino API (\OT1/pcr/m/n/12 r e s e a r c h - a n a l y
+ s i s / n a t i v e / f a k e []- a r d u i n o /\OT1/ptm/m/n/12 (+20) : \OT1/
+pcr/m/n/12 millis()\OT1/ptm/m/n/12 (+20) ,
+ []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+[]|\OT1/ptm/b/n/10 (+20) Agrees with the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+\OT1/pcr/b/n/10 MockArduino\OT1/ptm/b/n/10 (+20) -based claim
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+[]|\OT1/ptm/b/n/10 (+20) Agrees with the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\OT1/pcr/b/n/10 MockArduino\OT1/ptm/b/n/10 (+20) -based claim
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 323--323
+[]|\OT1/ptm/m/n/10 (+20) Alive one ms be-fore the
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 325--325
+[]|\OT1/ptm/m/n/10 (+20) Exactly at the bound-ary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+\OT1/ptm/m/n/10 (+20) is \OT1/pcr/m/n/10 >= DEADMAN[]-TIMEOUT[]-MS\OT1/ptm/m/n/
+10 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\OT1/ptm/m/n/10 (+20) PWM pins (\OT1/pcr/m/n/10 LEFT[]-RPWM\OT1/ptm/m/n/10 (+20
+) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\OT1/pcr/m/n/10 LEFT[]-LPWM\OT1/ptm/m/n/10 (+20) , \OT1/pcr/m/n/10 RIGHT[]-RPWM
+\OT1/ptm/m/n/10 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\OT1/ptm/m/n/10 (+20) Repeated pan (\OT1/pcr/m/n/10 P90\OT1/ptm/m/n/10 (+20)
+ )
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 331--331
+\OT1/ptm/m/n/10 (+20) com-mands while a drive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\OT1/ptm/b/n/10 (+20) re-arms the dead-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+\OT1/ptm/m/n/10 (+20) (firmware fault stays \OT1/pcr/m/n/10 NONE\OT1/ptm/m/n/10
+ (+20) );
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+\OT1/pcr/m/n/10 command[]-parser.cpp\OT1/ptm/m/n/10 (+20) 's own
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 331--331
+\OT1/ptm/m/n/10 (+20) for the dead-man timer, even a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+[]|\OT1/ptm/b/n/10 (+20) No \OT1/ptm/m/n/10 (+20) --
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+\OT1/pcr/m/n/10 pi/common/protocol.py\OT1/ptm/m/n/10 (+20) 's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+\OT1/pcr/m/n/10 DEADMAN[]-ARMING[]-COMMANDS
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 333--333
+[]|\OT1/ptm/m/n/10 (+20) Tilt (\OT1/pcr/m/n/10 T45\OT1/ptm/m/n/10 (+20) ) and s
+ta-tus (\OT1/pcr/m/n/10 ?\OT1/ptm/m/n/10 (+20) )
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 333--333
+[]|\OT1/ptm/b/n/10 (+20) re-arms the dead-man\OT1/ptm/m/n/10 (+20) , same
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+[]|\OT1/ptm/m/n/10 (+20) First com-mand sent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+[]|\OT1/ptm/b/n/10 (+20) rejected \OT1/ptm/m/n/10 (+20) (\OT1/pcr/m/n/10 NACK F
+ REJECTED\OT1/ptm/m/n/10 (+20) ):
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\OT1/ptm/m/n/10 (+20) the state-machine gate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\OT1/ptm/m/n/10 (+20) (\OT1/pcr/m/n/10 checkState()\OT1/ptm/m/n/10 (+20) ) stil
+l
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\OT1/ptm/m/n/10 (+20) sees \OT1/pcr/m/n/10 MODE[]-PANIC \OT1/ptm/m/n/10 (+20) f
+or that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\OT1/ptm/m/n/10 (+20) one com-mand, be-cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\OT1/pcr/m/n/10 handleLine() \OT1/ptm/m/n/10 (+20) up-dates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\OT1/pcr/m/n/10 lastCommandTime \OT1/ptm/m/it/10 (+20) be-fore
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 335--335
+\OT1/ptm/m/n/10 (+20) and auto-clears the fault (\OT1/pcr/m/n/10 EVT
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 335--336
+[]|\OT1/ptm/m/n/10 (+20) n/a -- \OT1/pcr/m/n/10 MockArduino \OT1/ptm/m/n/10 (+2
+0) has no
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 335--336
+\OT1/pcr/m/n/10 MODE[]-PANIC\OT1/ptm/m/n/10 (+20) /\OT1/pcr/m/n/10 MODE[]-ESTOP
+ \OT1/ptm/m/n/10 (+20) gate
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 335--336
+\OT1/ptm/m/n/10 (+20) im-me-di-ately with no re-jec-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+[]|\OT1/ptm/m/n/10 (+20) Unknown op-code,
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 339--339
+[]|\OT1/ptm/m/n/10 (+20) Heartbeat (\OT1/pcr/m/n/10 H\OT1/ptm/m/n/10 (+20) ) be
+-fore the
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [67]
+Underfull \hbox (badness 1259) in paragraph at lines 346--347
+\OT1/ptm/m/n/12 (+20) bound-ary tests in \OT1/pcr/m/n/12 research-analysis/test
+s/test[]-deadman[]-boundaries.py
+ []
+
+[68]
+Underfull \hbox (badness 1436) in paragraph at lines 351--352
+\OT1/ptm/m/n/12 (+20) All fig-ures in this sub-sec-tion are SIM-U-LATED: they c
+ome from a soft-ware model
+ []
+
+[69]
+Underfull \hbox (badness 5147) in paragraph at lines 359--359
+\OT1/ptm/m/n/12 (+20) SIM-U-LATED; CAL-CU-LATED from \OT1/pcr/m/n/12 DEADMAN[]-
+MS =
+ []
+
+[70]
+Underfull \hbox (badness 7558) in paragraph at lines 421--422
+[]\OT1/ptm/b/n/12 (+20) Procedure. \OT1/ptm/m/n/12 (+20) Glass-to-glass de-lay 
+is mea-sured with \OT1/pcr/m/n/12 tools/eval/record.py
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]\OT1/ptm/m/n/12 (+20) Table 5.6. Glass-to-glass video de-lay (E5),
+ []
+
+[71]
+Underfull \hbox (badness 1895) in paragraph at lines 446--446
+[]\OT1/ptm/m/n/10 (+20) Table 5.6a. Me-dia sum-mary per con-di-tion (E5). [PEND
+-ING
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+\OT1/ptm/m/n/12 (+20) point, \OT1/pcr/m/n/12 tools/eval/netsweep.py --target <r
+outer-ip> --label <Nk>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+\OT1/pcr/m/n/12 --distance-m <d> --obstacles <desc> --video <good|choppy|lost>
+ []
+
+[73] [74] [75] [76]
+Overfull \hbox (0.85272pt too wide) in paragraph at lines 651--651
+[]|\OT1/ptm/m/n/12 (-20) 26.85| 
+ []
+
+
+Overfull \hbox (0.85272pt too wide) in paragraph at lines 653--653
+[]|\OT1/ptm/m/n/12 (-20) 28.76| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--660
+[]\OT1/ptm/m/n/12 (+20) Table 5.9a. Man-ual faults timed from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--660
+\OT1/pcr/m/n/12 var/log/p1[]-events.log\OT1/ptm/m/n/12 (+20) , 2026-10-21 (UTC)
+.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
+[]|\OT1/ptm/m/n/12 (+20) Harness sees
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
+\OT1/pcr/m/n/12 serial[]-connected \OT1/ptm/m/n/12 (+20) 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
+[]|\OT1/ptm/m/n/12 (+20) Last con-troller heart-beat
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 679--679
+[]|\OT1/ptm/m/n/12 (+20) WebSocket closed by P1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 681--681
+[]|\OT1/ptm/m/n/12 (+20) Operator dash-board
+ []
+
+[77] [78]
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
+[]|\OT1/ptm/b/n/10 (+20) Within 3 s of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+[]|\OT1/ptm/b/n/10 (+20) Not near a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--703
+[]|\OT1/ptm/b/n/10 (+20) Within 3 s of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
+[]|\OT1/ptm/b/n/10 (+20) Not near a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--708
+[]|\OT1/ptm/m/n/10 (+20) F9-gps-loss-run2
+ []
+
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 723--723
+[]\OT1/ptm/m/n/12 (+20) Table 5.9d. In-ter-val be-tween heart-beats
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--723
+\OT1/ptm/m/n/12 (+20) (\OT1/pcr/m/n/12 DEBUG[]-TX H\OT1/ptm/m/n/12 (+20) ) writ
+-ten to the Ar-duino, from
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [80]
+Underfull \hbox (badness 7291) in paragraph at lines 762--763
+[]|\OT1/ptm/m/n/12 (+20) PANIC DEAD-MAN at
+ []
+
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 782--782
+[]|\OT1/ptm/b/n/10 (+20) Logger start
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+[]|\OT1/ptm/b/n/10 (+20) P2 RSS mean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--786
+[]|\OT1/ptm/b/n/10 (+20) Logger start
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--787
+[]|\OT1/ptm/b/n/10 (+20) P2 RSS mean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 793--793
+[]|\OT1/ptm/m/n/10 (+20) Pooled, as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 801--801
+[]\OT1/ptm/m/n/10 (+20) Table 5.10. Re-source util-i-sa-tion,
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [82]
+Underfull \hbox (badness 10000) in paragraph at lines 883--883
+[]|\OT1/ptm/m/n/10 (+20) 62.92 (62.22 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--885
+[]|\OT1/ptm/m/n/10 (+20) 64.51 (63.30 to
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 887--887
+[]|\OT1/ptm/m/n/10 (+20) 118.10 (117.08 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--915
+[]|\OT1/ptm/m/n/12 (+20) driving+media, orig-i-nal
+ []
+
+[83] [84]
+Underfull \hbox (badness 1502) in paragraph at lines 929--929
+[]\OT1/ptm/m/n/10 (+20) Table 5.12. Re-source util-i-sa-tion, 16 kbit/s Opus ab
+-la-tion (E8),
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 960.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 973--973
+[]|\OT1/ptm/b/n/10 (+20) Duration
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--977
+[]|\OT1/ptm/b/n/10 (+20) Duration
+ []
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\OT1/ptm/b/n/6 (+20) Dur.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\OT1/ptm/b/n/6 (+20) Mean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\OT1/ptm/b/n/6 (+20) RMS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
+[]|\OT1/ptm/b/n/6 (+20) Within 10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--998
+[]|\OT1/ptm/b/n/6 (+20) Dur.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--998
+[]|\OT1/ptm/b/n/6 (+20) Mean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--998
+[]|\OT1/ptm/b/n/6 (+20) RMS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--998
+[]|\OT1/ptm/b/n/6 (+20) Within 10
+ []
+
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
+[]|\OT1/ptm/b/n/10 (+20) Step
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+[]|\OT1/ptm/b/n/10 (+20) Step
+ []
+
+[87]
+Underfull \hbox (badness 1867) in paragraph at lines 1044--1044
+[]\OT1/ptm/m/n/12 (+20) Table 5.14. Ul-tra-sonic range er-ror by true dis-tance
+
+ []
+
+[88] [89] [90] [91]
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1201
+[]|\OT1/ptm/m/n/12 (+20) Two-way com-mu-ni-ca-tion
+ []
+
+[92] [93]
+Underfull \hbox (badness 1189) in paragraph at lines 1239--1239
+[]\OT1/ptm/m/n/12 (+20) Table 5.18a. Us-abil-ity sum-mary (E14). [PEND-ING
+ []
+
+[94]
+Underfull \hbox (badness 10000) in paragraph at lines 1286--1286
+[]|\OT1/ptm/m/n/12 (+20) Sensors (MQ-136, plus one grouped
+ []
+
+[95]
+Underfull \hbox (badness 5388) in paragraph at lines 1316--1316
+[]|\OT1/ptm/m/n/12 (+20) approx. USD 310
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1316
+\OT1/ptm/m/n/12 (+20) (37,158 BDT at 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1316
+\OT1/ptm/m/n/12 (+20) USD = 120 BDT;
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 1316--1316
+\OT1/ptm/m/n/12 (+20) itemised parts, Ta-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1317
+[]|\OT1/ptm/m/n/12 (+20) Low-cost single-board
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 1318--1319
+[]|\OT1/ptm/m/n/12 (+20) Paper states the low-cost
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1318--1319
+\OT1/ptm/m/n/12 (+20) de-sign goal but gives no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1320--1321
+[]|\OT1/ptm/m/n/12 (+20) Competition-grade
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 1320--1321
+\OT1/ptm/m/n/12 (+20) tracked robot with 4-DoF
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1322
+[]|\OT1/ptm/m/n/12 (+20) WTC re-sponse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1324--1324
+[]|\OT1/ptm/m/n/12 (+20) Rescue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1324--1324
+\OT1/ptm/m/n/12 (+20) re-con-nais-sance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1324--1325
+[]|\OT1/ptm/m/n/12 (-3) Requirements-and-challenges
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1326--1326
+[]|\OT1/ptm/m/n/12 (+20) USAR sur-vey
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1326--1327
+[]|\OT1/ptm/m/n/12 (+20) Control-perspective sur-vey;
+ []
+
+[96]) [97] [98]
+Chapter 6.
+(chapter/6_discussion/chapter6_discussion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]|\OT1/ptm/b/n/10 (+20) Claim the ev-i-dence
+ []
+
+
+Overfull \hbox (3.90656pt too wide) in alignment at lines 7--14
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\OT1/ptm/b/n/10 (+20) Claim the ev-i-dence
+ []
+
+
+Overfull \hbox (3.90656pt too wide) in alignment at lines 14--18
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 19--19
+[]|\OT1/ptm/m/n/10 (+20) C1: bounded
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 19--19
+[]|\OT1/ptm/m/n/10 (+20) Table 5.2b: 30 of 30
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+\OT1/ptm/m/n/10 (+20) tri-als, mean 2022.5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+\OT1/ptm/m/n/10 (+20) ms (MEA-SURED from
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 19--19
+\OT1/ptm/m/n/10 (+20) com-piled firmware (Ta-ble
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 19--20
+[]|\OT1/ptm/m/n/10 (+20) Time at which drive is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\OT1/ptm/m/n/10 (+20) re-moved, not the time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\OT1/ptm/m/n/10 (+20) the wheels stop (E4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\OT1/ptm/m/n/10 (+20) (E3 [VER-I-FI-CA-TION
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\OT1/ptm/m/n/10 (+20) RE-QUIRED]); res-o-lu-tion
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 21--21
+[]|\OT1/ptm/m/n/10 (+20) C2: no sin-gle
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 (+20) pro-cess fail-ure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\OT1/ptm/m/n/10 (+20) The watch-dog re-stored
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 (+20) SIGKILL of P1, P2 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\OT1/ptm/m/n/10 (+20) Tables 5.8, 5.8a
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 (+20) 16.03 s in-side the 14.6
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 21--21
+\OT1/ptm/m/n/10 (+20) to 19.6 s model win-dow
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 21--22
+[]|\OT1/ptm/m/n/10 (+20) Pooled fail-ure prob-a-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+\OT1/ptm/m/n/10 (+20) be-low 11.4% at 95%
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 21--22
+\OT1/ptm/m/n/10 (+20) con-fi-dence on the bench;
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 21--22
+\OT1/ptm/m/n/10 (+20) SIGKILL only; Ar-duino
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 23--23
+[]|\OT1/ptm/m/n/10 (+20) C3: two-way
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\OT1/ptm/m/n/10 (+20) video within
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 23--23
+\OT1/ptm/m/n/10 (+20) 4%; no throt-tling on an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\OT1/ptm/m/n/10 (+20) Tables 5.10, 5.10b
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 23--24
+[]|\OT1/ptm/m/n/10 (+20) Processor cost only; no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\OT1/ptm/m/n/10 (+20) C4:
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 25--26
+[]|\OT1/ptm/m/n/10 (+20) Webcam, speaker and Pi
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 25--26
+\OT1/ptm/m/n/10 (+20) power bank not in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\OT1/ptm/m/n/10 (+20) re-ceipts; no cost ra-tio
+ []
+
+
+Overfull \hbox (3.90656pt too wide) in alignment at lines 18--27
+ [] [] [] [] 
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [99
+
+] [100]
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/10 (+20) Control, me-dia and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/ptm/m/n/10 (+20) su-per-vi-sion in sep-a-rate
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 58--59
+\OT1/ptm/m/n/10 (+20) 5.8); the ben-e-fit over a sin-gle
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/10 (+20) No com-pet-ing writ-ers on the
+ []
+
+[101] [102] [103]
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/10 (+20) Uncontrolled cap-tures on
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 111--111
+\OT1/ptm/m/n/10 (+20) dif-fer-ent days, with dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 111--111
+\OT1/ptm/m/n/10 (+20) up-ti-mes and remote-desktop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/ptm/m/n/10 (+20) E8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+[]|\OT1/ptm/m/n/10 (+20) Described as de-scrip-tive, no
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 113--113
+\OT1/ptm/m/n/10 (+20) dis-tances; the cause is not
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 119--119
+[]|\OT1/ptm/m/n/10 (+20) Telemetry-confirmed la-ten-cies
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 119--120
+[]|\OT1/ptm/m/n/10 (+20) Labelled as up-per bounds; E2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\OT1/ptm/m/n/10 (+20) pend-ing; log-timed dead-man
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 119--120
+\OT1/ptm/m/n/10 (+20) in-ter-val is not sub-ject to this
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\OT1/ptm/m/n/10 (+20) E6, Sec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]|\OT1/ptm/m/n/10 (+20) Heartbeat-loss model la-belled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+\OT1/ptm/m/n/10 (+20) SIM-U-LATED; loss as-sumed
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 123--124
+\OT1/ptm/m/n/10 (+20) in-de-pen-dent, which un-der-states
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]|\OT1/ptm/m/n/10 (+20) Precision stated as
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 125--126
+\OT1/ptm/m/n/10 (+20) resolution-limited; no ac-cu-racy
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 131--132
+[]|\OT1/ptm/m/n/10 (+20) 95% in-ter-vals, Wil-son in-ter-vals
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 131--132
+\OT1/ptm/m/n/10 (+20) for pro-por-tions; no sig-nif-i-cance
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [104]) [105]
+Chapter 7.
+(chapter/7_future_work/chapter7_future_work.tex
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\OT1/ptm/b/n/10 (+20) Limitation in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\OT1/ptm/m/n/10 (+20) Multi-hop mesh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\OT1/ptm/m/n/10 (+20) One 802.11n cell;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+\OT1/ptm/m/n/10 (+20) reached, no ob-sta-cle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\OT1/ptm/m/n/10 (+20) Communication-aware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\OT1/ptm/m/n/10 (+20) Cross-layer fault
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 23--23
+\OT1/ptm/m/n/10 (+20) live-ness and an HTTP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\OT1/ptm/m/n/10 (+20) health check only;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/ptm/m/n/10 (+20) per pro-cess); hangs,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/ptm/m/n/10 (+20) faults not in-jected;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\OT1/ptm/m/n/10 (+20) Simulation-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\OT1/ptm/m/n/10 (+20) Heartbeat-loss model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\OT1/ptm/m/n/10 (+20) as-sumes in-de-pen-dent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\OT1/ptm/m/n/10 (+20) loss; the hard-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\OT1/ptm/m/n/10 (+20) GPS is the only
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\OT1/ptm/m/n/10 (+20) po-si-tion source;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\OT1/ptm/m/n/10 (+20) encoder-equipped
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 29--29
+[]|\OT1/ptm/m/n/10 (+20) 3.3, 3.10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\OT1/ptm/m/n/10 (+20) Autonomous re-turn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\OT1/ptm/m/n/10 (+20) Localization-aware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/ptm/m/n/10 (+20) and obstacle-aware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/ptm/m/n/10 (+20) and never stops the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\OT1/ptm/m/n/10 (+20) Compact, low-profile
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 39--39
+[]|\OT1/ptm/m/n/10 (+20) Only SoC tem-per-a-ture
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 39--39
+\OT1/ptm/m/n/10 (+20) deg C), un-der in-door
+ []
+
+
+Underfull \hbox (badness 8151) in paragraph at lines 41--41
+[]|\OT1/ptm/m/n/10 (+20) No rub-ble, slope or
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 43--43
+[]|\OT1/ptm/m/n/10 (+20) No in-situ volt-age or
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 43--43
+\OT1/ptm/m/n/10 (+20) Pi sup-ply under-volted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/ptm/m/n/10 (+20) Gas read-ing is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/ptm/m/n/10 (+20) un-cal-i-brated ADC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/ptm/m/n/10 (+20) 5.6.3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[]|\OT1/ptm/m/n/10 (+20) reference
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\OT1/ptm/m/n/10 (+20) Edge-based vic-tim
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\OT1/ptm/m/n/10 (+20) No de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\OT1/ptm/m/n/10 (+20) Plain HTTP and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\OT1/ptm/m/n/10 (+20) Single robot; one
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+[]|\OT1/ptm/m/n/10 (+20) 7.1.1, 7.3.1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\OT1/ptm/m/n/10 (+20) Reproducible
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\OT1/ptm/m/n/10 (+20) ex-per-i-men-tal
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [106
+
+]
+ignored error: Infinite glue shrinkage found in box being split [107] [108]
+[109] [110] [111] [112] [113]) [114]
+Chapter 8.
+(chapter/8_conclusion/chapter8_conclusion.tex
+ignored error: Infinite glue shrinkage found in box being split [115
+
+] [116])
+[117]
+Underfull \hbox (badness 1226) in paragraph at lines 390--391
+[]\OT1/ptm/m/n/12 (+20) Chinmoy Sarkar: Con-cep-tu-al-iza-tion, Method-ol-ogy, 
+Soft-ware, Hard-ware De-sign,
+ []
+
+[118
+
+
+] [119
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+\OT1/ptm/m/n/12 (+20) The project repos-i-tory is avail-able at []$\OT1/pcr/m/n
+/12 https : / / github . com / chinmoy567 /
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 407--408
+\OT1/ptm/m/n/12 (+20) in the project repos-i-tory un-der \OT1/pcr/m/n/12 tools/
+eval/ \OT1/ptm/m/n/12 (+20) (the per-experiment CSV files un-der
+ []
+
+[120
+
+]
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.bbl [121
+
+
+] [122] [123] [124]
+Underfull \hbox (badness 1590) in paragraph at lines 330--333
+\OT1/ptm/m/n/12 (+20) la-tency con-di-tions: Sys-tem de-sign and eval-u-a-tion,
+'' \OT1/ptm/m/it/12 (+20) IEEE Ac-cess\OT1/ptm/m/n/12 (+20) , vol. 11, pp.
+ []
+
+[125] [126]
+Underfull \hbox (badness 2269) in paragraph at lines 405--411
+[]\OT1/ptm/m/n/12 (+20) Raspberry Pi Ltd, ``Rasp-berry pi doc-u-men-ta-tion: Ra
+sp-berry pi os (vc-gencmd
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 405--411
+\OT1/ptm/m/n/12 (+20) get[]-throt-tled) and rasp-berry pi hard-ware (fre-quency
+ man-age-ment and ther-mal
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 405--411
+\OT1/ptm/m/n/12 (+20) con-trol),'' []$https : / / www . raspberrypi . com / doc
+umentation / computers/$[], 2026, ac-cessed:
+ []
+
+) [127]
+Appendix A.
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 4
+40.
+(C:\Users\chinmoy\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 440.
+
+[128
+
+]
+Overfull \hbox (0.82582pt too wide) in paragraph at lines 448--448
+[]|\OT1/ptm/b/n/10 (-20) Opcode| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--448
+[]|\OT1/ptm/b/n/10 (+20) Accepted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]|\OT1/ptm/m/n/10 (+20) Turn right (go
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]|\OT1/ptm/m/n/10 (+20) Heartbeat /
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 467--468
+[]|\OT1/ptm/m/n/10 (+20) STATUS line (Ta-ble
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 474--475
+[]\OT1/ptm/b/n/12 (+20) Table B.2. \OT1/ptm/m/n/12 (+20) Out-bound se-rial mes-
+sages, from \OT1/pcr/m/n/12 arduino/telemetry.cpp \OT1/ptm/m/n/12 (+20) and
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 474--475
+\OT1/pcr/m/n/12 arduino/protocol.h\OT1/ptm/m/n/12 (+20) . All are newline-termi
+nated ASCII; the pe-ri-odic teleme-try
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 483--484
+[]|\OT1/ptm/m/n/10 (+20) Every 500 ms (\OT1/pcr/m/n/10 TELEMETRY[]-PERIOD[]-MS\
+OT1/ptm/m/n/10 (+20) );
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]|\OT1/pcr/m/n/10 READY <fw[]-name>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\OT1/pcr/m/n/10 <fw[]-version> \OT1/ptm/m/n/10 (+20) (e.g. \OT1/pcr/m/n/10 READ
+Y
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 489--490
+\OT1/ptm/m/n/10 (+20) B.3, and \OT1/pcr/m/n/10 opcode \OT1/ptm/m/n/10 (+20) is 
+\OT1/pcr/m/n/10 ? \OT1/ptm/m/n/10 (+20) for an empty or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
+[]|\OT1/pcr/m/n/10 HB <mode> <uptime[]-ms> \OT1/ptm/m/n/10 (+20) (e.g.
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 495--495
+[]|\OT1/pcr/m/n/10 PANIC <fault> \OT1/ptm/m/n/10 (+20) (e.g. \OT1/pcr/m/n/10 PA
+NIC
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [129] [130]
+(C:\Users\chinmoy\Downloads\final defence report\final_defence _report\build\fi
+nal_defence_report.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+Package rerunfilecheck Info: File `final_defence_report.out' has not changed.
+(rerunfilecheck)             Checksum: A2A5510958C6F7448124B0E61876A72A;22200.
+ ) 
+Here is how much of TeX's memory you used:
+ 15034 strings out of 467871
+ 235587 string characters out of 5417407
+ 735259 words of memory out of 5000000
+ 42647 multiletter control sequences out of 15000+600000
+ 686050 words of font info for 492 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,9n,79p,3854b,688s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/chinmoy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><C:/Users/chinmoy/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Users/chinmoy/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Users/chinmoy/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chinmoy/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/chinmoy/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/chinm
+oy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/U
+sers/chinmoy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><
+C:/Users/chinmoy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.p
+fb><C:/Users/chinmoy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a
+.pfb><C:/Users/chinmoy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
+8a.pfb><C:/Users/chinmoy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on "C:\Users\chinmoy\Downloads\final defence report\final_defenc
+e _report\build\final_defence_report.pdf" (144 pages, 2767441 bytes).
+PDF statistics:
+ 1943 PDF objects out of 2073 (max. 8388607)
+ 414 named destinations out of 1000 (max. 500000)
+ 72591 words of extra memory for PDF output out of 74296 (max. 10000000)
+

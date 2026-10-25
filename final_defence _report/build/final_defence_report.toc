@@ -1,0 +1,100 @@
+\contentsline {chapter}{DECLARATION}{i}{Doc-Start}%
+\contentsline {chapter}{APPROVAL}{ii}{Doc-Start}%
+\contentsline {chapter}{ABSTRACT}{iv}{Doc-Start}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement and Challenges}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Research Questions and Contributions}{2}{section.1.3}%
+\contentsline {chapter}{\numberline {2}RELATED WORK}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Prior Reviews and Levels of Operator Involvement}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Field Deployments, Benchmarks and Recent Platforms}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Fail-Safe and Fault-Tolerant Architectures for Low-Cost Mobile Robots}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Human-Robot Interaction: Operator and Victim}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Real-Time Media and Computing on Edge Hardware}{9}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Research Gap}{10}{section.2.6}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{14}{chapter.3}%
+\contentsline {section}{3.0 Design Rationale and Relation to Research Questions}{14}{section*.1}%
+\contentsline {section}{\numberline {3.1}System Architecture}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Network Configuration}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Hardware Platform}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Software Architecture}{24}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Real-Time Firmware and Fail-Safe Control}{28}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Task Scheduling and Command Validation}{29}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Dead-Man Timer and Stop-Time Guarantee}{30}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Redundant Stop Paths}{32}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}P1 Control Server and Telemetry}{32}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Safe Startup and Single-Writer Serial Link}{32}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Telemetry Pipeline and Session Resume}{33}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Fault Tolerance and Supervision}{34}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}P3 Watchdog: Process Isolation and Supervision}{34}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Recovery Time Model and Graceful Degradation}{36}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Mission State for Operator Awareness}{38}{subsection.3.7.3}%
+\contentsline {section}{\numberline {3.8}Access Control and Multi-Operator Arbitration}{38}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Two-Way Victim Interaction}{39}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}The P2 Media Process}{40}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Signalling and Session Lifecycle}{41}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Data Channel Protocol}{43}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Operator-to-Robot Relay and Floor Control}{44}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Low-Latency Audio on a Constrained CPU}{44}{subsection.3.9.5}%
+\contentsline {section}{\numberline {3.10}GPS Localisation and Offline Mapping}{46}{section.3.10}%
+\contentsline {chapter}{\numberline {4}EXPERIMENTAL SETUP}{47}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Test Conditions}{47}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Experiments, Metrics and Validity Rules}{48}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Baselines}{51}{section.4.3}%
+\contentsline {section}{4.4 Deviations from the Planned Design and Threats to Validity}{52}{Item.12}%
+\contentsline {chapter}{\numberline {5}RESULTS}{55}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Control Latency and Emergency-Stop Response}{58}{section.5.1}%
+\contentsline {subsection}{5.1a Software Verification: Automated Unit Tests}{65}{table.5.8}%
+\contentsline {subsection}{5.1b Dead-Man Heartbeat-Loss Robustness (SIMULATED)}{69}{table.5.10}%
+\contentsline {section}{\numberline {5.2}Video and Audio Streaming Performance}{71}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Communication Range and Link Degradation}{72}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Fault Injection and Recovery Time}{76}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Resource Utilization on the Edge Device}{81}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Sensor Accuracy and GPS Track Quality}{85}{section.5.6}%
+\contentsline {subsection}{5.6.1 GPS: start-up, static precision and track quality}{85}{section*.2}%
+\contentsline {subsection}{5.6.2 Ultrasonic range (E10): VERIFICATION REQUIRED}{88}{table.5.31}%
+\contentsline {subsection}{5.6.3 Temperature and humidity (E11)}{89}{table.5.32}%
+\contentsline {subsection}{5.6.4 Gas sensor response (E12)}{91}{table.5.33}%
+\contentsline {section}{\numberline {5.7}Field Trial: End-to-End Rescue Scenario}{92}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Operator Usability Evaluation}{93}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Cost Analysis and Comparison with Existing Systems}{94}{section.5.9}%
+\contentsline {section}{5.10 Summary of Evidence}{97}{table.5.40}%
+\contentsline {chapter}{\numberline {6}DISCUSSION}{99}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Interpretation of Results}{99}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Design Trade-offs and Lessons Learned}{101}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Limitations}{103}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Threats to Validity}{104}{section.6.4}%
+\contentsline {chapter}{\numberline {7}FUTURE WORK}{106}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Communication Resilience}{108}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Multi-Hop Mesh Networking}{108}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Communication-Aware Mission Planning}{109}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}Fault Detection and Quantitative Fail-Safe Validation}{109}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Cross-Layer Fault Detection and Recovery}{109}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Quantitative Safety and Fault-Injection Evaluation}{110}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Simulation-Based Validation}{110}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7.3}GPS-Denied Localization and Return Navigation}{110}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Indoor Localization and Mapping}{111}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Trajectory Tracking and Visualization}{111}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Autonomous Return Navigation}{111}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Localization-Aware and Obstacle-Aware Navigation}{111}{subsection.7.3.4}%
+\contentsline {section}{\numberline {7.4}Platform: Mobility, Thermal Protection and Energy}{112}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Compact, Low-Profile Chassis Design}{112}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Heat-Resistant Structural Protection}{112}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Improved Disaster-Terrain Mobility}{112}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.4}Energy-Aware Operation}{113}{subsection.7.4.4}%
+\contentsline {section}{\numberline {7.5}Hazard Sensing and Edge-Based Victim Assistance}{113}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Sensor Fusion for Hazard Assessment}{113}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Edge-Based Victim Assistance}{113}{subsection.7.5.2}%
+\contentsline {section}{\numberline {7.6}Security, Multi-Robot Scale and Reproducibility}{114}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Secure Remote Control}{114}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}Multi-Robot Cooperative Exploration}{114}{subsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.6.3}Reproducible Experimental Benchmarking}{114}{subsection.7.6.3}%
+\contentsline {chapter}{\numberline {8}CONCLUSION}{115}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Answers to the Research Questions}{115}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Summary of Contributions}{117}{section.8.2}%
+\contentsline {section}{Closing}{117}{table.8.2}%
+\contentsline {chapter}{AUTHOR CONTRIBUTIONS}{118}{table.8.2}%
+\contentsline {chapter}{FUNDING}{118}{chapter*.3}%
+\contentsline {chapter}{DATA AND CODE AVAILABILITY}{119}{chapter*.4}%
+\contentsline {chapter}{REFERENCE}{121}{chapter*.5}%
+\contentsline {chapter}{\numberline {A}Communication Protocol Specification}{128}{appendix.A}%

@@ -1,0 +1,527 @@
+% ============================================================================
+% FINAL DEFENCE REPORT -- single self-contained LaTeX file
+% Content is transcribed verbatim from robort-code-from-pi/research paper/
+% RESEARCH PAPER.md. Only mechanical Markdown-to-LaTeX conversions have been
+% applied (headings, tables, math, citations, Mermaid diagrams as figure
+% placeholders). No wording has been changed, added or removed.
+% ============================================================================
+\documentclass[12pt,a4paper]{report}
+% -------------------------------
+% PACKAGES
+% -------------------------------
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage{setspace}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{float}
+\usepackage{amsmath,amssymb}
+\usepackage{cite}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{tocloft}
+\usepackage{titlesec}
+\usepackage{etoolbox}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[none]{hyphenat}
+\usepackage{microtype}
+\usepackage{seqsplit}
+\setlength{\emergencystretch}{3em}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+
+% -------------------------------
+% MARGINS
+% -------------------------------
+\geometry{
+    top=1in,
+    bottom=1in,
+    left=1.2in,
+    right=0.8in,
+    headheight=0pt,
+    headsep=0pt,
+    footskip=30pt
+}
+\onehalfspacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% -------------------------------
+% CUSTOM CHAPTER STYLE
+% -------------------------------
+\titleformat{\chapter}[display]
+  {\centering\bfseries}
+  {\Huge CHAPTER \thechapter}
+  {0pt}
+  {\LARGE\MakeUppercase}
+  [\vspace{-10pt}\rule{\textwidth}{0.1pt}]
+\titlespacing*{\chapter}{0pt}{-25pt}{20pt}
+
+\setlength{\cftbeforetoctitleskip}{0pt}
+\setlength{\cftbeforelottitleskip}{0pt}
+\setlength{\cftbeforeloftitleskip}{0pt}
+
+% -------------------------------
+% CUSTOM TABLE OF CONTENTS TITLE
+% -------------------------------
+\renewcommand{\contentsname}{TABLE OF CONTENTS}
+\makeatletter
+\renewcommand{\tableofcontents}{%
+    \clearpage
+    \thispagestyle{plain}
+    \vspace{1cm}
+    \@starttoc{toc}
+    \clearpage
+}
+\makeatother
+
+% -------------------------------
+% Helper environment for Mermaid-diagram source preserved as figures
+% -------------------------------
+\newenvironment{diagramfig}
+  {\begin{figure}[!htbp]\centering\footnotesize}
+  {\end{figure}}
+\setlength{\textfloatsep}{8pt plus 2pt minus 2pt}
+\setlength{\floatsep}{8pt plus 2pt minus 2pt}
+\setlength{\intextsep}{8pt plus 2pt minus 2pt}
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+\raggedbottom
+
+\begin{document}
+
+% ===============================
+% FRONT MATTER (Roman numbering)
+% ===============================
+\pagenumbering{roman}
+
+% ---------- TITLE PAGE ----------
+\begin{titlepage}
+    \centering
+    \vspace*{-1.5cm}
+
+    {\Large\textbf{CAPSTONE PROJECT SPRING 2026}}
+
+    \vspace{0.1cm}
+
+    \includegraphics[width=0.3\textwidth]{figures/baiust-logo.png}
+
+    \vspace{0.1cm}
+
+    {\Large \textbf{A Fail-Safe Teleoperated Rescue Robot with Two-Way Victim Interaction on Edge Hardware: Design, Implementation and Experimental Evaluation}} \\
+
+    \vspace{1.0cm}
+
+    Submitted by
+
+    \vspace{0.3cm}
+
+    \textbf{Chinmoy Sarkar} \\
+    ID: 0822220105101063 \\[0.4cm]
+
+    \textbf{Sadman Adib Avi} \\
+    ID: 0822220105101058 \\[0.4cm]
+
+    \textbf{Sadia Sultana} \\
+    ID: 0822220205101089
+
+    \vspace{1.0cm}
+
+    Supervised by
+
+    \vspace{0.3cm}
+
+    \textbf{Syed Shakil Mahmud} \\
+    \textbf{Lecturer, Dept. of CSE, BAIUST}
+
+    \vspace{0.8cm}
+
+    \text{in partial fulfillment of the requirements for the degree of} \\
+    \text{Bachelor of Science in Computer Science and Engineering}
+
+    \vspace{0.5cm}
+
+    \textbf{DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING} \\
+    \textbf{BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY (BAIUST)} \\
+
+\end{titlepage}
+\clearpage
+
+% ---------- DECLARATION ----------
+\clearpage
+\thispagestyle{plain}
+
+\begin{center}
+    \textbf{\Large DECLARATION}
+\end{center}
+
+\vspace{0.5cm}
+
+\addcontentsline{toc}{chapter}{DECLARATION}
+
+We hereby declare that the work presented in this Capstone Project is the result of our own investigation and efforts, conducted under the guidance and supervision of Syed Shakil Mahmud, Lecturer, Department of Computer Science and Engineering, Bangladesh Army International University of Science and Technology, Cumilla, Bangladesh. We confirm that no part of this proposal has been submitted, nor is being submitted, for the award of any other degree or diploma at any institution.
+
+\vspace{2cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \centering
+    \textbf{Countersigned} \\[1.5cm]
+
+    ------------------------------ \\
+    (\textbf{Syed Shakil Mahmud}) \\
+    Supervisor
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \centering
+    \textbf{Signature} \\[1.5cm]
+
+    ----------------------------------- \\
+    Chinmoy Sarkar \\
+    ID: 0822220105101063
+
+    \vspace{1.5cm}
+
+    ----------------------------------- \\
+    Sadman Adib Avi \\
+    ID: 0822220105101058
+
+    \vspace{1.5cm}
+
+    ----------------------------------- \\
+    Sadia Sultana \\
+    ID: 0822220205101089
+\end{minipage}
+\clearpage
+
+% ---------- APPROVAL ----------
+\clearpage
+\thispagestyle{plain}
+\begin{center}
+    \textbf{\Large APPROVAL}
+\end{center}
+\vspace{0.5cm}
+\addcontentsline{toc}{chapter}{APPROVAL}
+
+\noindent
+The Capstone Project titled ``A Fail-Safe Teleoperated Rescue Robot with Two-Way Victim Interaction on Edge Hardware: Design, Implementation and Experimental Evaluation'', which is submitted by Chinmoy Sarkar, Sadman Adib Avi and Sadia Sultana to the Department of Computer Science and Engineering, Bangladesh Army International University of
+Science and Technology (BAIUST), has been reviewed and approved as satisfactory
+for partial fulfillment of the requirements for the degree of Bachelor of Science in
+Computer Science and Engineering.
+
+\vspace{0.5cm}
+\begin{center}
+    \textbf{Board of Examiners}
+\end{center}
+\vspace{1.5cm}
+
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+    ------------------------------------- \\
+    \textbf{Syed Shakil Mahmud} \\
+    Lecturer \\
+    Department of CSE, BAIUST
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+    \raggedleft
+    \textbf{Supervisor}
+\end{minipage}
+
+\vspace{1.8cm}
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+      ------------------------------------- \\
+    Dr. Golam Moktader Nayeem (GMN) \\
+    Associate Professor \& Dean \\
+    Faculty of ECE, BAIUST
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+    \raggedleft
+    \textbf{Chairman}
+\end{minipage}
+
+\vspace{1.8cm}
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+      ------------------------------------- \\
+    Dr. Mohammed Mahmudur Rahman \\
+    Associate Professor \\
+    Department of CSE, BAIUST
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+    \raggedleft
+    \textbf{Board Member}
+\end{minipage}
+
+\vspace{1.8cm}
+
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+     ------------------------------------- \\
+    Dr. Md. Saifur Rahman \\
+    Professor, Dept. of Information and Communication Technology \\
+    Cumilla University, Cumilla
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+    \raggedleft
+    \textbf{External Board Member}
+\end{minipage}
+
+\vspace{1.8cm}
+
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+     ------------------------------------- \\
+    Md. Fahim Kabir Chowdhury \\
+    Lecturer \\
+    Department of CSE, BAIUST
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+    \raggedleft
+    \textbf{Member Secretary}
+\end{minipage}
+\clearpage
+
+% ---------- ABSTRACT ----------
+\clearpage
+\thispagestyle{plain}
+
+\addcontentsline{toc}{chapter}{ABSTRACT}
+
+\begin{center}
+    \textbf{\Large ABSTRACT}
+\end{center}
+
+\vspace{0.5cm}
+
+Rescue robots are usually teleoperated over links that fail, on hardware too costly to lose. This paper presents and evaluates a teleoperated rescue robot built from commodity single-board hardware, with two jobs: to remove motor drive within a bounded time whenever the operator link or the robot's own software fails, and to let the operator see and talk to a trapped person. An Arduino UNO runs the motor firmware, a Raspberry Pi 4 runs three isolated processes (control, media and a watchdog), and all services run on a local Wi-Fi network with no Internet uplink. A firmware dead-man timer enforces the stop independently of the Pi, a two-way WebRTC audio and video path reaches the victim, and the watchdog restarts a failed process. On the assembled robot, the firmware removed drive within 2042 ms of the last command in 30 of 30 logged trials (mean 2022.5 ms), below an analytical bound of about 2060 ms; the watchdog restored service with a new process identifier in 30 of 30 SIGKILL trials, a Wilson lower bound of 88.6\%; and one operator media session cost about 63\% of one core on the media process while the control process stayed near 4\%. The bill of materials, from receipts, is about USD 310. The stop figure is the time at which drive is removed, not a wheel-stop time or stopping distance; control latency over Wi-Fi, media delay and quality, an end-to-end field trial and an operator usability study were not measured and are pending.
+
+\vspace{0.5cm}
+\noindent\textbf{Keywords:} search and rescue robotics, teleoperation, fail-safe control, dead-man timer, fault tolerance, WebRTC, edge computing, Raspberry Pi
+\clearpage
+
+% ---------- TABLE OF CONTENTS / LOT / LOF ----------
+\tableofcontents
+\clearpage
+
+\renewcommand{\listtablename}{LIST OF TABLES}
+\renewcommand{\cftlottitlefont}{\hfill\Huge\bfseries}
+\renewcommand{\cftafterlottitle}{\hfill}
+
+\renewcommand{\listfigurename}{LIST OF FIGURES}
+\renewcommand{\cftloftitlefont}{\hfill\Huge\bfseries}
+\renewcommand{\cftafterloftitle}{\hfill}
+
+\listoftables
+\clearpage
+
+\listoffigures
+\clearpage
+
+% ===============================
+% MAIN CONTENT (Arabic numbering)
+% ===============================
+\pagenumbering{arabic}
+
+% ============================================================================
+\chapter{INTRODUCTION}
+% ============================================================================
+\input{chapter/1_introduction/chapter1_introduction}
+
+
+% ============================================================================
+\chapter{RELATED WORK}
+% ============================================================================
+\input{chapter/2_related_work/chapter2_related_work}
+
+
+% ============================================================================
+\chapter{METHODOLOGY}
+\input{chapter/3_methodology/chapter3_methodology}
+% ============================================================================
+
+
+% ============================================================================
+\chapter{EXPERIMENTAL SETUP}
+\input{chapter/4_experimental_setup/chapter4_experimental_setup}
+% ============================================================================
+
+
+% ============================================================================
+\chapter{RESULTS}
+% ============================================================================
+\input{chapter/5_results/chapter5_results}
+
+
+% ============================================================================
+\chapter{DISCUSSION}
+% ============================================================================
+\input{chapter/6_discussion/chapter6_discussion}
+
+
+% ============================================================================
+\chapter{FUTURE WORK}
+% ============================================================================
+\input{chapter/7_future_work/chapter7_future_work}
+
+
+% ============================================================================
+\chapter{CONCLUSION}
+% ============================================================================
+\input{chapter/8_conclusion/chapter8_conclusion}
+
+% ===============================
+% BACK MATTER
+% ===============================
+\clearpage
+\addcontentsline{toc}{chapter}{AUTHOR CONTRIBUTIONS}
+\chapter*{Author Contributions}
+
+Following the CRediT (Contributor Roles Taxonomy):
+
+\begin{itemize}
+\item Chinmoy Sarkar: Conceptualization, Methodology, Software, Hardware Design, Implementation, and Experimental Design.
+\item Sadman Adib Avi: Literature Review, Investigation, Experimental Validation, and Writing -- Review \& Editing, Implementation Support.
+\item Sadia Sultana: Implementation Support, Literature Review, Documentation, and Writing -- Original Draft Preparation.
+\end{itemize}
+
+All authors have read and agreed to the submitted version of the manuscript.
+
+\addcontentsline{toc}{chapter}{FUNDING}
+\chapter*{Funding}
+
+This research received no external funding. The project was entirely self-funded by the three authors, Chinmoy Sarkar, Sadman Adib Avi, and Sadia Sultana, who jointly covered the expenses associated with the design, development, implementation, and evaluation of the rescue robot.
+
+\addcontentsline{toc}{chapter}{DATA AND CODE AVAILABILITY}
+\chapter*{Data and Code Availability}
+
+The project repository is available at \url{https://github.com/chinmoy567/ROBORT-CODEBASE}. [TO BE UPDATED: archive DOI will be added when the repository is archived.]
+
+The evaluation scripts and their raw output referenced throughout Sections 4 and 5 reside in the project repository under \texttt{tools/eval/} (the per-experiment CSV files under \texttt{tools/eval/results/}, with the preserved log windows under \texttt{\seqsplit{tools/eval/results/log\_excerpts/}}).
+
+% ===============================
+% REFERENCES
+% ===============================
+\clearpage
+
+\nocite{*}
+\addcontentsline{toc}{chapter}{REFERENCE}
+\renewcommand{\bibname}{REFERENCE}
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+% ===============================
+% APPENDIX
+% ===============================
+\appendix
+
+\chapter{Communication Protocol Specification}
+
+The communication protocol of the system is defined by the following elements of Section 3, which together specify the transports, the command set, the telemetry frame, the control-channel messages and the media parameters:
+
+\begin{itemize}
+\item Network transports, ports and services: Table 1 (Section 3.2).
+\item Network load and timing budget, including the 2000 ms dead-man delivery deadline and the telemetry and heartbeat cadences: Table 1a (Section 3.2).
+\item Serial command set (the nine opcodes F, R, L, G, P, T, S, H and ?) and the four-stage firmware-side validation: Figure 9 and its caption (Section 3.5.1); the serial link framing (115200 baud, newline-terminated ASCII, at most 31 characters) is in Table 3 (Section 3.3) and Figure 9.
+\item Telemetry frame fields and accepted ranges: Table 8 (Section 3.6.2).
+\item WebRTC data-channel messages for the Robot Screen: Table 13 (Section 3.9.3).
+\item Video media parameters: Table 12 (Section 3.9.1); audio media parameters: Table 14 (Section 3.9.5).
+\end{itemize}
+
+The serial command and message grammar is not consolidated in a single table in Section 3, so it is given here, transcribed from the firmware source (\texttt{\seqsplit{arduino/protocol.h}}, \texttt{\seqsplit{arduino/command\_parser.cpp}}, \texttt{\seqsplit{arduino/telemetry.cpp}}, \texttt{\seqsplit{arduino/protocol.cpp}} and \texttt{\seqsplit{arduino/config.h}}). The serial link runs at 115200 baud, 8N1 (the Arduino core default for a single-argument \texttt{Serial.begin}), over USB (\texttt{\seqsplit{arduino/config.h}}, \texttt{\seqsplit{arduino/arduino.ino}}).
+
+\textbf{Serial framing.} Each command is a line of ASCII terminated by a newline (\texttt{\textbackslash n}); a carriage return (\texttt{\textbackslash r}) is ignored, and the first byte is the opcode. The receive buffer is 32 bytes (\texttt{RX\_BUFFER\_SIZE}), so a command carries at most 31 characters before the terminator, and an over-length or empty line is rejected with \texttt{NACK ? EMPTY}. A command is checked in four stages (Figure 9, Section 3.5.1): framing, then argument syntax and range, then -- for any well-formed command -- re-arming of the dead-man timer (\texttt{noteCommandReceived}, \texttt{arduino/command\_parser.cpp}), then the state-machine gate. Motion opcodes (F, R, L, G) are additionally gated and are accepted only when motion is allowed (the firmware in READY or ACTIVE with no latched fault); S, H, ?, P and T are always accepted and all re-arm the dead-man.
+
+\textbf{Table B.1.} Inbound serial command syntax, from \texttt{\seqsplit{arduino/protocol.h}} and \texttt{\seqsplit{arduino/command\_parser.cpp}} (ranges \texttt{MOTOR\_SPEED\_MIN}/\texttt{MAX} and \texttt{SERVO\_ANGLE\_MIN}/\texttt{MAX} in \texttt{\seqsplit{arduino/config.h}}). The argument must be all digits (\texttt{utils::isAllDigits}). Transcribed from firmware source.
+
+\begin{center}
+\footnotesize
+\begin{longtable}{|p{1.1cm}|p{2.7cm}|p{1.7cm}|p{2.2cm}|p{2.1cm}|p{3.2cm}|}
+\hline
+\textbf{Opcode} & \textbf{Command} & \textbf{Argument} & \textbf{Accepted range} & \textbf{Motion-gated} & \textbf{Reply on accept} \\
+\hline
+\endhead
+F & Forward & speed & 0 to 255 & Yes & ACK F \\
+\hline
+R & Reverse & speed & 0 to 255 & Yes & ACK R \\
+\hline
+L & Turn left & speed & 0 to 255 & Yes & ACK L \\
+\hline
+G & Turn right (go right) & speed & 0 to 255 & Yes & ACK G \\
+\hline
+P & Pan servo & angle & 0 to 180 & No & ACK P \\
+\hline
+T & Tilt servo & angle & 0 to 180 & No & ACK T \\
+\hline
+S & Stop & none & - & No & ACK S \\
+\hline
+H & Heartbeat / keep-alive & none & - & No & ACK H \\
+\hline
+? & Status query & none & - & No & STATUS line (Table B.2) \\
+\hline
+\end{longtable}
+\end{center}
+
+The firmware accepts a speed of 0 to 255, but the Pi control server clamps every speed to 0 to 180 before it reaches the serial port (Section 3.5.1), so the upper part of the firmware range is not exercised in the deployment evaluated here.
+
+\textbf{Table B.2.} Outbound serial messages, from \texttt{arduino/telemetry.cpp} and \texttt{arduino/protocol.h}. All are newline-terminated ASCII; the periodic telemetry frame is untagged positional CSV and every other line is prefixed by a type tag. Transcribed from firmware source.
+
+\begin{center}
+\footnotesize
+\begin{longtable}{|p{1.4cm}|p{5.3cm}|p{6.7cm}|}
+\hline
+\textbf{Tag} & \textbf{Format} & \textbf{Emitted when} \\
+\hline
+\endhead
+(none) & \texttt{\seqsplit{<temp\_c>,<humidity\_pct>,<gas\_raw>,<range\_cm>,<pan>,<tilt>,<fw\_state>,<uptime\_ms>}} & Every 500 ms (\texttt{TELEMETRY\_PERIOD\_MS}); field ranges in Table 8. \texttt{fw\_state} is 1 = ARMED (READY), 2 = DRIVING (ACTIVE), 3 = STOPPED (BOOT, PANIC or ESTOP) \\
+\hline
+READY & \texttt{READY <fw\_name> <fw\_version>} (e.g. \texttt{READY RESCUE-UNO 1.0.0}) & After boot or reset, once the firmware is ready (start-up handshake, Figure 11) \\
+\hline
+ACK & \texttt{ACK <opcode>} (e.g. \texttt{ACK F}) & A command passed all four stages and executed (every opcode except \texttt{?}) \\
+\hline
+NACK & \texttt{NACK <opcode> <reason>} (e.g. \texttt{NACK F REJECTED}) & A command was rejected; \texttt{reason} is in Table B.3, and \texttt{opcode} is \texttt{?} for an empty or over-length frame \\
+\hline
+HB & \texttt{HB <mode> <uptime\_ms>} (e.g. \texttt{HB READY 12345}) & Every 1000 ms (\texttt{HEARTBEAT\_PERIOD\_MS}); \texttt{mode} is BOOT, READY, ACTIVE, ESTOP or PANIC. This is an outbound status line and does not re-arm the dead-man (Section 5.4) \\
+\hline
+STATUS & \texttt{\seqsplit{STATUS;FW=..;VER=..;MODE=..;FAULT=..;UPTIME=..;DIR=..;SPD=..;DIST=..;T=..;H=..;GAS=..;GALM=..;PAN=..;TILT=..}} & In reply to \texttt{?}; \texttt{DIR} is F, R, L, G or S, and \texttt{FAULT} is NONE, DEADMAN, ESTOP or UNKNOWN \\
+\hline
+PANIC & \texttt{PANIC <fault>} (e.g. \texttt{PANIC DEADMAN}) & When the dead-man trips and drive is removed (Section 3.5.2); emitted in the same supervisor pass that stops the motors \\
+\hline
+EVT & \texttt{EVT <text>} (currently only \texttt{EVT DEADMAN\_CLEARED}) & When a dead-man fault clears because valid commands resumed (Figure 10) \\
+\hline
+\end{longtable}
+\end{center}
+
+\textbf{Table B.3.} NACK reason codes, from \texttt{cmdResultString} in \texttt{arduino/protocol.cpp}. Transcribed from firmware source.
+
+\begin{center}
+\begin{longtable}{|p{3.5cm}|p{9cm}|}
+\hline
+\textbf{Reason} & \textbf{Meaning} \\
+\hline
+\endhead
+EMPTY & No data, or a frame too long for the 32-byte receive buffer \\
+\hline
+UNKNOWN\_CMD & Unrecognised opcode \\
+\hline
+ARG\_MISSING & The opcode requires an argument but none was given \\
+\hline
+ARG\_INVALID & The argument is not all digits \\
+\hline
+ARG\_RANGE & The argument is outside the opcode's accepted range (Table B.1) \\
+\hline
+REJECTED & Rejected by the state machine (a motion command while motion is not allowed, for example under a latched dead-man or operator stop) \\
+\hline
+\end{longtable}
+\end{center}
+
+The WebRTC data-channel message grammar (operator to Robot Screen control) is a separate protocol from this serial link and is given in full in Table 13 (Section 3.9.3); it is not repeated here.
+
+\end{document}

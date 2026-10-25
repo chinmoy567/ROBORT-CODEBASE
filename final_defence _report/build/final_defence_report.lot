@@ -1,0 +1,77 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{Representative rescue platforms: platform, control and link/computing against C1-C2 (part a of Table 2.1).}}{10}{table.2.1}%
+\contentsline {table}{\numberline {2.1}{Representative rescue platforms: platform, control and link/computing against C1-C2 (part a of Table 2.1).}}{11}{table.2.1}%
+\contentsline {table}{\numberline {2.2}{Representative rescue platforms: C3-C4, code availability, evidence and text read (part b of Table 2.1).}}{12}{table.2.2}%
+\contentsline {table}{\numberline {2.2}{Representative rescue platforms: C3-C4, code availability, evidence and text read (part b of Table 2.1).}}{13}{table.2.2}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{Network services on the Pi.}}{17}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{Network load and timing requirements.}}{17}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{Hardware components.}}{19}{table.3.3}%
+\contentsline {table}{\numberline {3.4}{Arduino UNO pin map.}}{22}{table.3.4}%
+\contentsline {table}{\numberline {3.5}{Raspberry Pi 4 connections.}}{23}{table.3.5}%
+\contentsline {table}{\numberline {3.6}{Software stack.}}{25}{table.3.6}%
+\contentsline {table}{\numberline {3.7}{Firmware tasks.}}{29}{table.3.7}%
+\contentsline {table}{\numberline {3.8}{Stop paths.}}{32}{table.3.8}%
+\contentsline {table}{\numberline {3.9}{Telemetry frame fields and accepted ranges (frame at most 80 characters).}}{34}{table.3.9}%
+\contentsline {table}{\numberline {3.10}{Failure effects and recovery.}}{36}{table.3.10}%
+\contentsline {table}{\numberline {3.11}{Mission state rules (first match wins).}}{38}{table.3.11}%
+\contentsline {table}{\numberline {3.12}{Key check results.}}{38}{table.3.12}%
+\contentsline {table}{\numberline {3.13}{Video parameters.}}{41}{table.3.13}%
+\contentsline {table}{\numberline {3.14}{Data channel messages.}}{43}{table.3.14}%
+\contentsline {table}{\numberline {3.15}{Audio parameters.}}{45}{table.3.15}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}Experiment matrix: planned design and design achieved.}{48}{table.4.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.0}Evidence status of every Section 5 experiment.}{56}{table.5.1}%
+\contentsline {table}{\numberline {5.1}Control-plane latency, jittered sender, both sessions, \texttt {\seqsplit {tools/eval/results/latency.csv}}. MEASURED. All values in ms; 95\% CI of the mean (Student t).}{58}{table.5.2}%
+\contentsline {table}{\numberline {5.2}Phase-locked sender (label \texttt {on-pi-phaselocked}, 2026-10-07), same path, showing the biased distribution the jitter removes. MEASURED. All values in ms.}{59}{table.5.3}%
+\contentsline {table}{\numberline {5.2a}Dead-man trip paired with the PANIC notice, 2026-10-21 session (label \texttt {on-pi-2026-10-21}), 30 trials at drive speed 150. MEASURED. All values in ms.}{59}{table.5.4}%
+\contentsline {table}{\numberline {5.2b}Dead-man interval decomposed on P1's clock, 2026-10-21, \texttt {\seqsplit {var/log/p1\_events.log}} matched to Table 5.2a. CALCULATED from MEASURED log timestamps. All values in ms.}{60}{table.5.5}%
+\contentsline {table}{\numberline {5.3}True control latency (E2), \texttt {latency\_video.csv}. [PENDING MEASUREMENT]}{62}{table.5.6}%
+\contentsline {table}{\numberline {5.4}Emergency-stop stopping distance (E3), concrete surface, \texttt {\seqsplit {tools/eval/results/estop.csv}}. MEASURED (operator-recorded, transcribed); [VERIFICATION REQUIRED] for all three speeds, since the kinematic check below applies to every row and the PWM 60 row also lacks any logged drive command. Distance in cm.}{62}{table.5.7}%
+\contentsline {table}{\numberline {5.5}Dead-man wheel-stop time (E4), \texttt {deadman\_physical.csv}. [PENDING MEASUREMENT]}{64}{table.5.8}%
+\contentsline {table}{\numberline {5.5a}Automated unit tests: historical record, fresh rerun and supplementary boundary tests. SOFTWARE-TEST.}{66}{table.5.9}%
+\contentsline {table}{\numberline {5.5d}Native test of the real, compiled firmware source (not the \texttt {MockArduino} model). ACTUAL SOFTWARE TEST, 2026-10-22.}{67}{table.5.10}%
+\contentsline {table}{\numberline {5.5b}Consecutive-loss margin by heartbeat period. SIMULATED; CALCULATED from \texttt {DEADMAN\_MS = 2000} ms, the firmware's \texttt {>=} trip condition and the heartbeat period, with no transit jitter. A loss count is tolerated if the next heartbeat can still arrive before 2000 ms of silence.}{70}{table.5.11}%
+\contentsline {table}{\numberline {5.5c}Mission-level trip probability vs. an assumed per-heartbeat loss probability. SIMULATED. 300 s missions, 50 000 trials per value, seed 20261022.}{70}{table.5.12}%
+\contentsline {table}{\numberline {5.6}Glass-to-glass video delay (E5), \texttt {glass2glass.csv}. [PENDING MEASUREMENT]}{72}{table.5.13}%
+\contentsline {table}{\numberline {5.6a}Media summary per condition (E5). [PENDING MEASUREMENT]}{72}{table.5.14}%
+\contentsline {table}{\numberline {5.7}Communication range and link degradation (E6), \texttt {network.csv}. MEASURED (directly logged by \texttt {netsweep.py}, not hand-transcribed); partial -- 16 stations, line-of-sight, no obstacles. One 100-ping burst per station. Distances and the \texttt {video}/\texttt {control} judgements are as entered by the operator and were not independently verified. \texttt {channel}/\texttt {freq\_mhz} were added to the logging tool after N1-N4 were run. N1-N6 were logged on 2026-10-22 and N7-N10, R1-R6 on 2026-10-23, in the row order shown (R1 was logged after N10 at 250 m).}{73}{table.5.15}%
+\contentsline {table}{\numberline {5.7a}The same six distances measured in the two sessions (N1 to N6 on 2026-10-22, R1 to R6 on 2026-10-23), from Table 5.7. Loss in \%, signal at the start of the burst in dBm, mean RTT in ms.}{74}{table.5.16}%
+\contentsline {table}{\numberline {5.8}Fault detection and recovery, \texttt {tools/eval/results/faults.csv}, 10 trials per target. MEASURED.}{76}{table.5.17}%
+\contentsline {table}{\numberline {5.8a}Recovery proportion with 95\% Wilson score interval \cite {wilson1927}. CALCULATED from Table 5.8.}{76}{table.5.18}%
+\contentsline {table}{\numberline {5.9}Manually injected fault transitions (E7 manual), \texttt {fault\_watch.csv}, 2026-10-21. MEASURED. \texttt {t\_s} is seconds from the start of each watch.}{77}{table.5.19}%
+\contentsline {table}{\numberline {5.9a}Manual faults timed from \texttt {var/log/p1\_events.log}, 2026-10-21 (UTC). MEASURED.}{78}{table.5.20}%
+\contentsline {table}{\numberline {5.9b}\texttt {gps\_fix} 1 $\rightarrow $ 0 transitions during the F9 attempt, matched to P1 \texttt {GPS\_FAIL} events. CALCULATED from \texttt {fault\_watch.csv} and \texttt {p1\_events.log}.}{79}{table.5.21}%
+\contentsline {table}{\numberline {5.9d}Interval between heartbeats (\texttt {DEBUG\_TX} \texttt {H}) written to the Arduino, from \texttt {var/log/p1\_events.log.1}. MEASURED. Seconds.}{80}{table.5.22}%
+\contentsline {table}{\numberline {5.9c}Gaps of 1.9 s or more between controller heartbeats written to the Arduino, 2026-10-22 12:00 to 14:02 UTC, \texttt {p1\_events.log}. MEASURED.}{81}{table.5.23}%
+\contentsline {table}{\numberline {5.10a}\texttt {driving+media} split by logger run. CALCULATED from \texttt {resources.csv}.}{82}{table.5.24}%
+\contentsline {table}{\numberline {5.10}Resource utilisation, \texttt {tools/eval/results/resources.csv}. MEASURED. Total CPU is \% of the four-core processor; P1 to P3 CPU is \% of one core; memory in MB; temperature in deg C. N is the number of 1 Hz rows.}{82}{table.5.25}%
+\contentsline {table}{\numberline {5.10b}Mean per-process CPU with 95\% batch-means interval (ten non-overlapping batches). CALCULATED from \texttt {resources.csv}. \% of one core.}{83}{table.5.26}%
+\contentsline {table}{\numberline {5.11}Per-process resident memory (RSS), same source. MEASURED. Mean values in MB.}{83}{table.5.27}%
+\contentsline {table}{\numberline {5.12}Resource utilisation, 16 kbit/s Opus ablation (E8), \texttt {resources.csv}. MEASURED. Same metrics and units as Table 5.10.}{85}{table.5.28}%
+\contentsline {table}{\numberline {5.13}Static GPS precision (E9), \texttt {\seqsplit {tools/eval/results/gps\_static.csv}}. MEASURED. Radial distance from the centroid, in metres.}{86}{table.5.29}%
+\contentsline {table}{\numberline {5.13a}Static GPS windows recomputed from \texttt {\seqsplit {var/log/telemetry.log}} at four-decimal resolution. CALCULATED from MEASURED fixes.}{86}{table.5.30}%
+\contentsline {table}{\numberline {5.13b}GPS track built by P1's 10 m filter, 2026-10-22, robot not driven. MEASURED (track) and CALCULATED (distances).}{87}{table.5.31}%
+\contentsline {table}{\numberline {5.14}Ultrasonic range error by true distance (E10), \texttt {\seqsplit {tools/eval/results/ultrasonic.csv}}. [VERIFICATION REQUIRED: contradicted by the telemetry log; not used to support any claim.] All values in cm; N = 10 at each distance.}{88}{table.5.32}%
+\contentsline {table}{\numberline {5.15}Temperature and humidity error (E11, DHT11 sensor), \texttt {\seqsplit {tools/eval/results/dht11\_environmental.csv}}. MEASURED (transcribed; sensor values corroborated by \texttt {\seqsplit {telemetry.log}}); [VERIFICATION REQUIRED] for the \texttt {error\_c} column (see below). Single ambient set-point, 5 trials.}{90}{table.5.33}%
+\contentsline {table}{\numberline {5.16}Gas sensor response (E12), \texttt {\seqsplit {tools/eval/results/gas.csv}}. MEASURED (transcribed; corroborated by \texttt {\seqsplit {telemetry.log}}). Butane lighter at about 5 cm, 5 trials, 2026-10-21.}{91}{table.5.34}%
+\contentsline {table}{\numberline {5.17}End-to-end rescue runs (E13), \texttt {field.csv}. [PENDING MEASUREMENT]}{92}{table.5.35}%
+\contentsline {table}{\numberline {5.17a}Field-trial summary (E13). [PENDING MEASUREMENT]}{93}{table.5.36}%
+\contentsline {table}{\numberline {5.18}Operator usability (E14), \texttt {sus.csv}. [PENDING MEASUREMENT]}{94}{table.5.37}%
+\contentsline {table}{\numberline {5.18a}Usability summary (E14). [PENDING MEASUREMENT]}{94}{table.5.38}%
+\contentsline {table}{\numberline {5.19}Appendix A bill of materials, by subsystem, from the authors' itemised procurement receipts. Actual prices paid in BDT; USD converted at an indicative 1 USD = 120 BDT (October 2026). Component parts are those of Table 2 of Section 3.3; a few Table 2 parts are not separately itemised (see below).}{95}{table.5.39}%
+\contentsline {table}{\numberline {5.20}Build cost comparison with literature platforms (E15). This work: receipt-backed (BDT, USD at an indicative rate); other rows: PUBLISHED REFERENCE. Figures are taken from the cited papers as published and not re-costed; ``not reported'' means the cited paper states no numeric total.}{96}{table.5.40}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}Claim, supporting evidence and bound for each challenge. The last column states what the evidence does not cover.}{99}{table.6.1}%
+\contentsline {table}{\numberline {6.2}Design decisions, what each bought and what each cost, with the evidence for both sides.}{102}{table.6.2}%
+\contentsline {table}{\numberline {6.3}Threats to validity by type, the experiments they affect and the mitigation applied. Itemised deviations are in Section 4.4.}{104}{table.6.3}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{Future-work directions, the limitation each addresses, and dependencies.}}{106}{table.7.1}%
+\contentsline {table}{\numberline {7.1}{Future-work directions, the limitation each addresses, and dependencies.}}{107}{table.7.1}%
+\contentsline {table}{\numberline {7.1}{Future-work directions, the limitation each addresses, and dependencies.}}{108}{table.7.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {8.1}{Answer to each research question, the evidence behind it and the scope within which it holds.}}{115}{table.8.1}%
+\contentsline {table}{\numberline {8.2}{Contributions, the challenge each addresses, the Section 5 subsection that evaluates it and what is claimed.}}{117}{table.8.2}%
+\addvspace {10\p@ }

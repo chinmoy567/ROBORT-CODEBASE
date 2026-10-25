@@ -1,0 +1,154 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}METHODOLOGY}{1}{chapter.3}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{3.0 Design Rationale and Relation to Research Questions}{1}{section*.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}System Architecture}{2}{section.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Overall system architecture.}}{2}{figure.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces End-to-end control loop: command down, telemetry up.}}{3}{figure.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Network Configuration}{3}{section.3.2}\protected@file@percent }
+\gdef \LT@i {\LT@entry 
+    {3}{128.6112pt}\LT@entry 
+    {1}{50.8356pt}\LT@entry 
+    {3}{119.96738pt}\LT@entry 
+    {1}{183.11652pt}}
+\gdef \LT@ii {\LT@entry 
+    {1}{155.06377pt}\LT@entry 
+    {1}{126.21101pt}\LT@entry 
+    {1}{126.21101pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{Network services on the Pi.}}{4}{table.3.1}\protected@file@percent }
+\newlabel{tab:network-services}{{3.1}{4}{Network services on the Pi}{table.3.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.2}{Network load and timing requirements.}}{4}{table.3.2}\protected@file@percent }
+\newlabel{tab:network-load}{{3.2}{4}{Network load and timing requirements}{table.3.2}{}}
+\gdef \LT@iii {\LT@entry 
+    {1}{112.38463pt}\LT@entry 
+    {1}{140.4374pt}\LT@entry 
+    {1}{168.89014pt}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Hardware Platform}{6}{section.3.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.3}{Hardware components.}}{6}{table.3.3}\protected@file@percent }
+\newlabel{tab:hardware-components}{{3.3}{6}{Hardware components}{table.3.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Hardware interconnection and power distribution. Thick lines carry power; thin lines carry signals, labelled with the interface and its direction. The Pi and the Arduino are the two hubs, and the separate motor and Pi supplies are grouped on the left.}}{8}{figure.3.3}\protected@file@percent }
+\gdef \LT@iv {\LT@entry 
+    {3}{65.77928pt}\LT@entry 
+    {3}{105.3989pt}\LT@entry 
+    {1}{111.98463pt}\LT@entry 
+    {1}{140.4374pt}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Arduino UNO pin diagram. Every line is drawn from the Arduino outwards to the device it serves, so an arrowhead marks the connection and not the signal direction. Direction is given in the label instead, read from the Arduino's side: "out" leaves the pin and "in" arrives at it, and a label with both names the outgoing pin first. Table~\ref {tab:arduino-pin-map} gives the full pin map.}}{9}{figure.3.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.4}{Arduino UNO pin map.}}{9}{table.3.4}\protected@file@percent }
+\newlabel{tab:arduino-pin-map}{{3.4}{9}{Arduino UNO pin map}{table.3.4}{}}
+\gdef \LT@v {\LT@entry 
+    {1}{112.38463pt}\LT@entry 
+    {1}{126.21101pt}\LT@entry 
+    {1}{154.66377pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.5}{Raspberry Pi 4 connections.}}{10}{table.3.5}\protected@file@percent }
+\newlabel{tab:pi-connections}{{3.5}{10}{Raspberry Pi 4 connections}{table.3.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces Raspberry Pi 4 port and GPIO diagram. Every line is drawn from the Pi outwards to the device it serves, so an arrowhead marks the connection and not the direction. Direction is given in the label instead, read from the Pi's side: "out" leaves the port or pin and "in" arrives at it. The thick lines carry power, and the Pi's own supply arrives on USB-C. Table~\ref {tab:pi-connections} gives the full connection list.}}{11}{figure.3.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Software Architecture}{11}{section.3.4}\protected@file@percent }
+\gdef \LT@vi {\LT@entry 
+    {1}{69.70549pt}\LT@entry 
+    {1}{83.53188pt}\LT@entry 
+    {1}{63.61504pt}\LT@entry 
+    {1}{111.98463pt}\LT@entry 
+    {1}{111.98463pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.6}{Software stack.}}{12}{table.3.6}\protected@file@percent }
+\newlabel{tab:software-stack}{{3.6}{12}{Software stack}{table.3.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces Raspberry Pi software architecture and process supervision.}}{13}{figure.3.6}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces Operator dashboard.}}{14}{figure.3.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Real-Time Firmware and Fail-Safe Control}{15}{section.3.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.8}{\ignorespaces Firmware operating modes. ESTOP is a reserved latched operator-stop state: it is defined in the firmware state machine and reported as 3, but is not entered in the current build, where the emergency stop is an ordinary S (Table~\ref {tab:stop-paths}).}}{15}{figure.3.8}\protected@file@percent }
+\citation{pont2001}
+\gdef \LT@vii {\LT@entry 
+    {1}{98.15825pt}\LT@entry 
+    {1}{83.53188pt}\LT@entry 
+    {1}{183.11652pt}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Task Scheduling and Command Validation}{16}{subsection.3.5.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.7}{Firmware tasks.}}{16}{table.3.7}\protected@file@percent }
+\newlabel{tab:firmware-tasks}{{3.7}{16}{Firmware tasks}{table.3.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.9}{\ignorespaces Four-stage firmware-side command validation. The nine opcodes are F, R, L, G (speed), P, T (angle), S, H and ?.}}{16}{figure.3.9}\protected@file@percent }
+\citation{iec60204}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Dead-Man Timer and Stop-Time Guarantee}{17}{subsection.3.5.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.10}{\ignorespaces Dead-man trip and recovery.}}{18}{figure.3.10}\protected@file@percent }
+\gdef \LT@viii {\LT@entry 
+    {1}{112.38463pt}\LT@entry 
+    {1}{83.53188pt}\LT@entry 
+    {1}{97.75826pt}\LT@entry 
+    {1}{97.75826pt}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.3}Redundant Stop Paths}{19}{subsection.3.5.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.8}{Stop paths.}}{19}{table.3.8}\protected@file@percent }
+\newlabel{tab:stop-paths}{{3.8}{19}{Stop paths}{table.3.8}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}P1 Control Server and Telemetry}{19}{section.3.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.1}Safe Startup and Single-Writer Serial Link}{19}{subsection.3.6.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.11}{\ignorespaces P1 start-up handshake. A timeout ends P1 with a handshake-failure exit code.}}{20}{figure.3.11}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.2}Telemetry Pipeline and Session Resume}{20}{subsection.3.6.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.12}{\ignorespaces Telemetry pipeline.}}{20}{figure.3.12}\protected@file@percent }
+\gdef \LT@ix {\LT@entry 
+    {1}{112.38463pt}\LT@entry 
+    {3}{58.53978pt}\LT@entry 
+    {1}{126.21101pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.9}{Telemetry frame fields and accepted ranges (frame at most 80 characters).}}{21}{table.3.9}\protected@file@percent }
+\newlabel{tab:telemetry-fields}{{3.9}{21}{Telemetry frame fields and accepted ranges (frame at most 80 characters)}{table.3.9}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.7}Fault Tolerance and Supervision}{21}{section.3.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7.1}P3 Watchdog: Process Isolation and Supervision}{21}{subsection.3.7.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.13}{\ignorespaces Layered fault tolerance, from the operator side down to the motors.}}{22}{figure.3.13}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.14}{\ignorespaces Per-process supervision. Health checks run every 10 s with a 5 s timeout.}}{22}{figure.3.14}\protected@file@percent }
+\gdef \LT@x {\LT@entry 
+    {1}{98.15825pt}\LT@entry 
+    {1}{83.53188pt}\LT@entry 
+    {1}{126.21101pt}\LT@entry 
+    {1}{126.21101pt}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7.2}Recovery Time Model and Graceful Degradation}{23}{subsection.3.7.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.10}{Failure effects and recovery.}}{23}{table.3.10}\protected@file@percent }
+\newlabel{tab:failure-recovery}{{3.10}{23}{Failure effects and recovery}{table.3.10}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.15}{\ignorespaces Failure chain for a Wi-Fi drop: stop, reconnect, replay, resume.}}{24}{figure.3.15}\protected@file@percent }
+\gdef \LT@xi {\LT@entry 
+    {1}{53.45555pt}\LT@entry 
+    {1}{97.75826pt}\LT@entry 
+    {1}{211.56927pt}}
+\gdef \LT@xii {\LT@entry 
+    {1}{83.93187pt}\LT@entry 
+    {1}{154.66377pt}\LT@entry 
+    {1}{97.75826pt}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7.3}Mission State for Operator Awareness}{25}{subsection.3.7.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.11}{Mission state rules (first match wins).}}{25}{table.3.11}\protected@file@percent }
+\newlabel{tab:mission-state}{{3.11}{25}{Mission state rules (first match wins)}{table.3.11}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.8}Access Control and Multi-Operator Arbitration}{25}{section.3.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.12}{Key check results.}}{25}{table.3.12}\protected@file@percent }
+\newlabel{tab:key-check}{{3.12}{25}{Key check results}{table.3.12}{}}
+\citation{shi2025webrtc}
+\@writefile{toc}{\contentsline {section}{\numberline {3.9}Two-Way Victim Interaction}{26}{section.3.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.16}{\ignorespaces Controller takeover.}}{27}{figure.3.16}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.9.1}The P2 Media Process}{27}{subsection.3.9.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.17}{\ignorespaces Two-way media path (WebRTC). Video is encoded per session as VP8 or H.264, as negotiated with the browser; each session gets its own copy of every camera frame.}}{27}{figure.3.17}\protected@file@percent }
+\gdef \LT@xiii {\LT@entry 
+    {1}{98.15825pt}\LT@entry 
+    {1}{140.4374pt}\LT@entry 
+    {1}{140.4374pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.13}{Video parameters.}}{28}{table.3.13}\protected@file@percent }
+\newlabel{tab:video-parameters}{{3.13}{28}{Video parameters}{table.3.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.9.2}Signalling and Session Lifecycle}{28}{subsection.3.9.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.18}{\ignorespaces WebRTC signalling and session set-up between a dashboard and P2.}}{29}{figure.3.18}\protected@file@percent }
+\gdef \LT@xiv {\LT@entry 
+    {1}{98.15825pt}\LT@entry 
+    {1}{111.98463pt}\LT@entry 
+    {1}{154.66377pt}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.9.3}Data Channel Protocol}{30}{subsection.3.9.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.14}{Data channel messages.}}{30}{table.3.14}\protected@file@percent }
+\newlabel{tab:data-channel}{{3.14}{30}{Data channel messages}{table.3.14}{}}
+\citation{valin2012}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.9.4}Operator-to-Robot Relay and Floor Control}{31}{subsection.3.9.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.9.5}Low-Latency Audio on a Constrained CPU}{31}{subsection.3.9.5}\protected@file@percent }
+\gdef \LT@xv {\LT@entry 
+    {1}{98.15825pt}\LT@entry 
+    {1}{140.4374pt}\LT@entry 
+    {1}{140.4374pt}}
+\citation{ublox_neo6}
+\citation{ublox_neo6}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.19}{\ignorespaces Robot Screen floor control. A release clears the screen text and media.}}{32}{figure.3.19}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3.15}{Audio parameters.}}{32}{table.3.15}\protected@file@percent }
+\newlabel{tab:audio-parameters}{{3.15}{32}{Audio parameters}{table.3.15}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.10}GPS Localisation and Offline Mapping}{33}{section.3.10}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.20}{\ignorespaces GPS and map data flow. Online map tiles, when reachable, show outside the offline map area.}}{33}{figure.3.20}\protected@file@percent }
+\gdef \@abspage@last{33}

@@ -1,0 +1,29 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overall system architecture.}}{15}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces End-to-end control loop: command down, telemetry up.}}{16}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Hardware interconnection and power distribution. Thick lines carry power; thin lines carry signals, labelled with the interface and its direction. The Pi and the Arduino are the two hubs, and the separate motor and Pi supplies are grouped on the left.}}{21}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Arduino UNO pin diagram. Every line is drawn from the Arduino outwards to the device it serves, so an arrowhead marks the connection and not the signal direction. Direction is given in the label instead, read from the Arduino's side: "out" leaves the pin and "in" arrives at it, and a label with both names the outgoing pin first. Table~\ref {tab:arduino-pin-map} gives the full pin map.}}{22}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Raspberry Pi 4 port and GPIO diagram. Every line is drawn from the Pi outwards to the device it serves, so an arrowhead marks the connection and not the direction. Direction is given in the label instead, read from the Pi's side: "out" leaves the port or pin and "in" arrives at it. The thick lines carry power, and the Pi's own supply arrives on USB-C. Table~\ref {tab:pi-connections} gives the full connection list.}}{24}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Raspberry Pi software architecture and process supervision.}}{26}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Operator dashboard.}}{27}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Firmware operating modes. ESTOP is a reserved latched operator-stop state: it is defined in the firmware state machine and reported as 3, but is not entered in the current build, where the emergency stop is an ordinary S (Table~\ref {tab:stop-paths}).}}{28}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Four-stage firmware-side command validation. The nine opcodes are F, R, L, G (speed), P, T (angle), S, H and ?.}}{29}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Dead-man trip and recovery.}}{31}{figure.3.10}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces P1 start-up handshake. A timeout ends P1 with a handshake-failure exit code.}}{33}{figure.3.11}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Telemetry pipeline.}}{33}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Layered fault tolerance, from the operator side down to the motors.}}{35}{figure.3.13}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Per-process supervision. Health checks run every 10 s with a 5 s timeout.}}{35}{figure.3.14}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Failure chain for a Wi-Fi drop: stop, reconnect, replay, resume.}}{37}{figure.3.15}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Controller takeover.}}{40}{figure.3.16}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Two-way media path (WebRTC). Video is encoded per session as VP8 or H.264, as negotiated with the browser; each session gets its own copy of every camera frame.}}{40}{figure.3.17}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces WebRTC signalling and session set-up between a dashboard and P2.}}{42}{figure.3.18}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Robot Screen floor control. A release clears the screen text and media.}}{45}{figure.3.19}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces GPS and map data flow. Online map tiles, when reachable, show outside the offline map area.}}{46}{figure.3.20}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

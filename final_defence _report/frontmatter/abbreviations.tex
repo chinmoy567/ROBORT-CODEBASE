@@ -1,0 +1,25 @@
+
+\clearpage
+\begin{center}
+    \textbf{\Large LIST OF ABBREVIATIONS}
+\end{center}
+%\addcontentsline — Manually adds an entry to a table of contents or another list.
+%{toc} — Specifies the destination, which is the Table of Contents.
+%{chapter} — Formats the entry as a chapter-level item (appropriate for book or report classes).
+%{LIST OF ABBREVIATIONS} — The text that will appear in the Table of Contents.
+\addcontentsline{toc}{chapter}{LIST OF ABBREVIATIONS}
+
+%longtable: Creates a table that can automatically continue across page breaks.
+%{...}: Specifies the column layout.
+%l: A left-aligned column.
+%l: Another left-aligned column.
+%@{}: Removes the default horizontal padding %(\tabcolsep) at the beginning and end of the table.
+
+\begin{longtable}{@{}ll@{}}
+CNN                 & Convolutional Neural Network \\
+DL                  & Deep Learning \\
+LSTM                & Long Short-Term Memory \\
+RF                  & Random Forest \\
+RL                  & Reinforcement Learning \\
+RNN                 & Recurrent Neural Network \\
+\end{longtable}
